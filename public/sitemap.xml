@@ -1,7 +1,4 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2023-08-23T19:09:04.000Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S01/01_Launch_Trailer</loc>
     <lastmod>2023-12-07T07:00:00.000Z</lastmod>
   </url><url>
@@ -19,27 +16,6 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S01/07_CNS_Reddit_Posts</loc>
     <lastmod>2024-03-02T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/01_Trailer</loc>
-    <lastmod>2024-09-20T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/02_Intro_Vignette</loc>
-    <lastmod>2024-09-20T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/03_Sponor_Fine_Print</loc>
-    <lastmod>2024-09-26T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/05_ENGIMO_Ad</loc>
-    <lastmod>2024-10-15T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/06_HOLTOW_Ad</loc>
-    <lastmod>2024-10-25T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/07_HOLTOW_Site</loc>
-    <lastmod>2024-11-06T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/08_Lore_Vignette</loc>
-    <lastmod>2024-11-27T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S02/01_Trailer</loc>
     <lastmod>2024-03-11T07:00:00.000Z</lastmod>
@@ -70,6 +46,27 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S03/04_Lore_Vignette</loc>
     <lastmod>2024-09-04T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/01_Trailer</loc>
+    <lastmod>2024-09-20T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/02_Intro_Vignette</loc>
+    <lastmod>2024-09-20T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/03_Sponor_Fine_Print</loc>
+    <lastmod>2024-09-26T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/05_ENGIMO_Ad</loc>
+    <lastmod>2024-10-15T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/06_HOLTOW_Ad</loc>
+    <lastmod>2024-10-25T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/07_HOLTOW_Site</loc>
+    <lastmod>2024-11-06T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/08_Lore_Vignette</loc>
+    <lastmod>2024-11-27T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S05/02_Intro_Vignette</loc>
     <lastmod>2024-12-12T07:00:00.000Z</lastmod>
@@ -133,4 +130,7 @@
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S07/06_Lore_Vignette</loc>
     <lastmod>2025-08-21T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2025-09-03T19:48:07.000Z</lastmod>
   </url></urlset>

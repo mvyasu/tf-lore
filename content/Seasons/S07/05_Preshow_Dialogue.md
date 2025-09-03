@@ -42,7 +42,7 @@ There are a few lines that seem to implicate some potential lore. It is unknown 
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398083165758689380)
 
->**June:** `cuts in` the helmet, huh, said it blocks sponsor radiation!
+>**June:** `[cuts in]` the helmet, huh, said it blocks sponsor radiation!
 >
 >**Scotty:** Ha ha! I want my brain to get branded! Anyway, it's show time!
 

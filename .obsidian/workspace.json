@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e7c75d05ba23ec42",
+        "id": "c1aef932e456ed57",
         "type": "tabs",
         "children": [
           {
-            "id": "16011ac349514955",
+            "id": "05ac0ea8af8638e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Seasons/S01/04_HOLTOW_Site.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "04_HOLTOW_Site"
             }
           }
         ]
@@ -165,10 +169,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "abbf5a850ee02e51",
+  "active": "05ac0ea8af8638e1",
   "lastOpenFiles": [
+    "public/tags/junior.html",
+    "public/tags/alfaacta.html",
+    "public/tags/vaiiya.html",
+    "public/tags/cns.html",
+    "public/tags/engimo.html",
+    "public/tags/ai.html",
+    "public/tags/sponsors.html",
+    "public/tags/las-vegas.html",
+    "public/tags/event.html",
+    "public/Seasons/S01/07_CNS_Reddit_Posts.html",
+    "public/tags/announcer.html",
+    "public/index-og-image.webp",
+    "public/Seasons/S07/06_Lore_Vignette-og-image.webp",
+    "public/Seasons/S07/05_Preshow_Dialogue-og-image.webp",
+    "public/Seasons/S07/04_Nozomi_Citadel_Analysis-og-image.webp",
+    "public/Seasons/S07/03_Clarity_Unity_Progress-og-image.webp",
+    "public/Seasons/S07/02_Sponor_Fine_Print-og-image.webp",
+    "public/Seasons/S07/01_Launch_Trailer-og-image.webp",
+    "public/Seasons/S06/09_Reality_Shield_Ad-og-image.webp",
+    "public/Seasons/S06/08_CNS_Reddit_Posts-og-image.webp",
+    "public/Seasons/S06/07_No_Masquerade-og-image.webp",
+    "content/Seasons/S02/08_OSPUZE_Site.md",
+    "content/Seasons/S02/04_CNS_Reddit_Posts.md",
+    "content/Seasons/S02/01_Trailer.md",
     "content/Seasons/S07/06_Lore_Vignette.md",
     "content/Seasons/S07/05_Preshow_Dialogue.md",
+    "content/index.md",
+    "content/Seasons/S07/03_Clarity_Unity_Progress.md",
+    "content/Seasons/S01/01_Launch_Trailer.md",
     "content/Seasons/S03/04_Lore_Vignette.md",
     "content/Seasons/S03/03_Kyoto_Analysis.md",
     "content/Seasons/S03/02_Intro_Vignette.md",
@@ -179,39 +210,12 @@
     "content/Seasons/S01/04_HOLTOW_Site.md",
     "content/Seasons/S01/03_MuCoDOS.md",
     "content/Seasons/S01/02_Las_Vegas_Analysis.md",
-    "content/Seasons/S01/01_Launch_Trailer.md",
     "content/Seasons/S07/04_Nozomi_Citadel_Analysis.md",
-    "content/Seasons/S07/03_Clarity_Unity_Progress.md",
     "content/Seasons/S07/02_Sponor_Fine_Print.md",
     "content/Seasons/S07/01_Launch_Trailer.md",
     "content/Seasons/S06/09_Reality_Shield_Ad.md",
     "content/Seasons/S06/08_CNS_Reddit_Posts.md",
     "content/Seasons/S06/07_No_Masquerade.md",
-    "content/Seasons/S06/06_Sponsor_Rivalry.md",
-    "content/Seasons/S06/05_Tiger_Juice_Ad.md",
-    "content/Seasons/S06/04_Las_Vegas_Stadium_Analysis.md",
-    "content/Seasons/S06/03_Sponor_Fine_Print.md",
-    "content/Seasons/S06/02_Intro_Vignette.md",
-    "content/Seasons/S06/01_Trailer.md",
-    "content/Seasons/S06/00_Media/S06_Intro_Vignette_02.png",
-    "content/Seasons/S06/00_Media/S06_Intro_Vignette_01.png",
-    "content/Seasons/S00",
-    "content/Seasons/S03/00_Media/S03_Intro_Vignette_10_Ninja.png",
-    "content/Seasons/S03/00_Media/S03_Intro_Vignette_09_Battle_Pass.png",
-    "content/Seasons/S03/00_Media/S03_Intro_Vignette_08_Weapons.png",
-    "content/Seasons/S03/00_Media/S03_Intro_Vignette_07_World_Tour.png",
-    "content/Seasons/S01/00_Media/02_xX_TF_CNS_FloatingBits_Mp3_Xx_02.wav",
-    "content/Seasons/S03/00_Media/S03_Trailer_16_Finale.png",
-    "content/Seasons/S03/00_Media/S03_Trailer_15_Winch_Claw.png",
-    "content/Seasons/S03/00_Media/S03_Trailer_14_Versus.png",
-    "content/Seasons/S03/00_Media/S03_Trailer_13_World_Tour.png",
-    "New folder",
-    "content/Seasons/S01/00_Media/xX_TF_S2_FreeDoom_Ver06_24bit_Wav_Xx.wav",
-    "content/Seasons/S01/00_Media/S01_Reddit_11_Robot.mp4",
-    "content/Seasons/S01/00_Media/S01_Reddit_10_Fly_Me_Friendly.mp4",
-    "content/Seasons/S01/00_Media/S01_Reddit_09_Inside.mp4",
-    "content/Seasons/S01/00_Media/S01_Reddit_08_WB.mp4",
-    "content/Seasons/S01/00_Media/03_ xX_TF_CNS_MegaUltraHeavy_DeleteThiz_Xx_03.wav",
-    "public/tags/iseul-t.html"
+    "content/Seasons/S06/06_Sponsor_Rivalry.md"
   ]
 }

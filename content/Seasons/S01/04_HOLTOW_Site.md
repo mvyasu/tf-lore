@@ -19,7 +19,7 @@ Eventually, before Season 2, the site changed to a new gif. This time it was nam
 
 ### \_-\_-\_.gif
 
-![[_-_-_.gif]]
+![[Holtow_CNS_Glitches.gif]]
 
 The gif contained various pieces of text. For example:
 
