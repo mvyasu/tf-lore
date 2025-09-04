@@ -6,8 +6,8 @@ tags:
   - fine-print
   - sponsors
   - ospuze
-  - alfaacta
   - engimo
+  - alfa-acta
 draft: false
 ---
 ## OSPUZE Fine Print

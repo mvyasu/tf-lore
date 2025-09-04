@@ -17,7 +17,7 @@ draft: false
 
 >**Scotty:** The clock is counting down and The Retros need to make a move to avoid getting knocked out!
 >
->**June:** Indeed! The Socialites are defending har– `distortion effects` and–
+>**June:** Indeed! The Socialites are defending har– `[distortion effects]` and–
 
 ![[S02_Trailer_02_Glitches.png]]
 

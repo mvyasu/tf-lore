@@ -5,8 +5,8 @@ date: 2025-02-26T00:00:00
 tags:
   - ad
   - video
-  - alfaacta
   - junior
+  - alfa-acta
 draft: false
 ---
 **Video Link:** https://www.youtube.com/watch?v=Pn_Y-YfHq3Y

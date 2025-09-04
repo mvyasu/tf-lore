@@ -1,6 +1,6 @@
 ---
 title: Season 5 Reddit Posts
-description: A list of reddit posts made on the r/cns subreddit by user @4RCU5 during Season 5.
+description: A list of reddit posts made on the r/cns subreddit by user @4RCU5 during Season 5 of THE FINALS.
 date: 2025-03-13T00:00:00
 tags:
   - reddit

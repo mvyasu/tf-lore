@@ -1,5 +1,5 @@
 ---
-title: Season 6 Trailer
+title: Season 6 Intro Vignette
 description: A description of what happens in the Season 6 Intro Vignette for THE FINALS.
 date: 2025-03-20T00:00:00
 tags:
@@ -7,7 +7,7 @@ tags:
   - video
   - engimo
   - ospuze
-  - alfaacta
+  - alfa-acta
   - scotty
   - june
 draft: false

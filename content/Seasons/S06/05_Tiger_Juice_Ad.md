@@ -7,7 +7,7 @@ tags:
   - video
   - ospuze
   - trentila
-  - tigerjuice
+  - tiger-juice
 draft: false
 ---
 **Video Link:** https://www.youtube.com/watch?v=REi498N1pHw

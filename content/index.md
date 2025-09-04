@@ -1,6 +1,7 @@
 ---
 title: Welcome to the Meatspace!
 ---
+![[Index_01_Header.png]]
 ## THE FINALS
 
 #### The World

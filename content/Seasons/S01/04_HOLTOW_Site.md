@@ -1,5 +1,5 @@
 ---
-title: Season 1 Holtow Website
+title: Season 1 HOLTOW Website
 description: A brief summary of what happened to Holtow's website during Season 1.
 date: 2023-12-17T00:00:00
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Season 4 Holtow Website
+title: Season 4 HOLTOW Website
 description: A brief summary of what happened to Holtow's website during Season 4.
 date: 2024-11-06T00:00:00
 tags:

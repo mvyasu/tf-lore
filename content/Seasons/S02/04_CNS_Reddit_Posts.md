@@ -1,6 +1,6 @@
 ---
 title: Season 2 Reddit Posts
-description: A list of reddit posts made on the r/cns subreddit by user @4RCU5 during Season 2.
+description: A list of reddit posts made on the r/cns subreddit by user @4RCU5 during Season 2 of THE FINALS.
 date: 2024-03-23T00:00:00
 tags:
   - reddit
