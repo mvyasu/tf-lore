@@ -9,7 +9,7 @@ tags:
   - vaiiya
   - ariad
   - announcer
-  - salscoria
+  - sal-scoria
 draft: false
 ---
 **Video Link:** https://www.youtube.com/watch?v=97Usq1dxYcs

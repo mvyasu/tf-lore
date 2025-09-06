@@ -9,5 +9,10 @@ tags:
   - cns
   - ospuze
   - sofia
-draft: true
+draft: false
 ---
+![[S00_Monaco_Analysis_01.png]]
+
+# S LIES
+
+A red-colored lore message from CNS can be found at Construction that says "S Lies" in a pixel-like font. It has been in-game since the closed beta.

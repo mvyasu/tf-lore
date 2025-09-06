@@ -1,0 +1,585 @@
+---
+title: Voicelines
+description:
+date: 2023-06-14T00:00:00
+tags:
+  - dialogue
+  - june
+  - scotty
+  - announcer
+  - ariad
+  - valkyria
+  - multico
+  - sal-scoria
+draft: true
+---
+# Commentator Voicelines
+
+## June
+
+#### Potential Lore Voicelines
+  - Hello there! I'm June, one of the CoHosts of the show. I've heard a lot of buzz about you among the sponsors - they really think you can steal the show. Use the practice range to hone your skills, so you can go into the arena and prove them right.
+
+#### Normal Voicelines
+- It's a real revolution in this match, Scotty
+- This team is just rolling out the play, Scotty!
+- Positively crushing the competiion there, Scotty!
+- They're trying with all of their might out there, Scotty!
+- Just look at those proud faces, Scotty. What a show!
+- They're fighting tooth and nail out there, Scotty, relentless effort!
+- An im-posing performance, Scotty. I've gotta say!
+- They've got style and grace Scotty. What a team!
+- Scotty, they're flaunting their style!
+- Scotty, they're a team of tough customers!
+- It seems that they're almost unbreakable, Scotty!
+- So far, not a dent in their armor, Scotty. Not even a crack!
+- I wouldn't recommend getting in their way, Scotty!
+- Generating some serious power there, right, Scotty?
+- Strength in numbers, Scotty. Strength in numbers.
+- A truly unbelievable scene in the arena Scotty!
+- Did you see that coming, Scotty? I sure didn't!
+- I am amazed, Scotty. Oustanding, don't you think?
+- It was a singular play stemming from exceptional teamwork!
+- Now that's something you don't see very often, Scotty!
+- It was an unusually good play.
+- For once, The Retros might not need to come back!
+- They're showing us that the old school moves still work.
+- A classic play, Scotty.
+- Tipping the scales in their favor with that move!
+- They're really playing in concert, Scotty. Beautiful arrangement!
+- They found their rhythm with that play.
+- There'll be dancing on the tables before long, mark my words, Scotty!
+- Now THAT'S how to make an entrance!
+- That will be a huge influence on the round.
+- That was a real bite-sized master piece of a play!
+- I didn't realize they were so good at playing fetch!
+- I'll bet there will be tails wagging after that move.
+- First-class move for the round's first cash!
+- Life in the fast lane, Scotty. What a ride!
+- Full throttle ahead, Scotty, what a way to open!
+- Scotty, that's what you call cod. Cash On Delivery!
+- They're definitely not flopping around out there!
+- A real feeding frenzy at the cashout station.
+- They're trying to leave the competition in their wake!
+- Scotty, they're really drenching the competition!
+- They're really springboarding into this match.
+- They're flipping the switch to turn on the juice!
+- That will cahrge up the round.
+- They are truly bounding ahead, Scotty!
+- There's no limit to where they can go from here!
+- That payday is bound to come in handy for them.
+- Scotty, if I were them, I'd be steaming mad!
+- Steam has gotta be coming out their ears now!
+- They were on the wrong side of that leveling.
+- I'd say 'oh, how the mighty have fallen' if it weren't so cliche!
+- More plight than might for them!
+- And with that, they've gone from will to may to might. That's a grammar joke, Scotty.
+- Not the pose that I would be striking if I were them!
+- Scotty, they'll need to be more vogue than rogue to stay on trend!
+- That's not a trend that I recommend our contestants follow.
+- Tough beans for them!
+- Scotty, the competition really shelled them!
+- They'll need to hide in their sheels for a bit.
+- The contestants did a real demolition job on them!
+- They'll need to recharge now!
+- Scotty, even the best come grinding to a halt.
+- That'll be a shock to their system!
+- Scotty, they've picked the wrong way to inspire awe!
+- I don't think any one say that coming.
+- They're as common as a four-leaf clover in the arena now!
+- They are as scarce as hens' teeth now, Scotty!
+- Too bad, because winning is the true collectors' item here.
+- Scotty, they'll want to do a retrospective on that play!
+- I guess some plays do go out of fashion!
+- They'll be in need of a comeback now.
+- That's not the kind of percussion they were hoping for.
+- I'm not so sure that's music to their ears!
+- Scotty, they've gone from plenty of notes to a three-beat rest.
+- That's not how you should RSVP to a party, Scotty!
+- This one time they won't want to be the talk of the town!
+- Yeah, that stings like being cut out of your friends' inner circle.
+- They've been made a cat's paw!
+- They're off to the doghouse now!
+- Scotty, I bet there'll be some bowed heads and tucked tails on that team.
+- They'll be cooling their jets now, Scotty!
+- The competition told them to go fly a kite!
+- Hopefully they bough a return ticket back from that wipeout.
+- I guess the competition didn't have bigger fish to fry after all, Scotty!
+- They're definitely a fish out of water!
+- Looks like they took the bait and got hooked.
+- They could find themselves in troubled waters now!
+- They might be in hot water now.
+- Safe to say someone hit them with a cannonball, Scotty!
+- I think that's what they call low voltage!
+- That's what I call an alternating current.
+- Scotty, it looks like they got their wires crossed.
+- That could have an immeasurable impact on the round!
+- It was bound to happen at some point, Scotty!
+- That's right, I guess they have limits after all!
+- And that's the end of the apocalyptic Meteor Showers. We'll return to regular, old-fashioned arena destruction now!
+- And that's a wrap. this Meteor Showers event was proudly brought to you by our generous seasonal sponsors.
+- No more Meteor Showers for now. This could be a good time to check your virtual insurance policy. Make sure it covers EVERYTHING!
+- Time to stop stargazing and get back to business. The Meteor Showers are now complete!
+- And that's the end of the Meteor Showers event!
+- And we're done thinking with the forces of gravity in the arena!
+- And that's a wrap. This Low Gravity event was proudly brought to you by our seasonal sponsors.
+- Low Gravity is over, so our contestants will need to use their virtual muscles, or a jump pad, to get some air again!
+- I hope our contestants were not midair, as we just returned to normal gravity!
+- And that's the end of the Low Gravity event!
+- Mega Damage has finished. I hope that satisfied our fans' calls for amped up action!
+- And that's a wrap. This Mega Damage event was proudly brought to you by our generous seasonal sponsors.
+- The lack of regulations on damage might have got a bit out of hand there, Scotty. We are now back to normal damage!
+- Mega Damage is over, and we are back to a somewhat controlled amount of chaos again!
+- And that's the end of the Mega Damage event!
+- The Death Match is finished, but for our fans, I'm sure the eliminations will continue!
+- And that's a wrap. This Death Match event was proudly brought to you by our generous seasonal sponsors.
+- And the extra incentives for eliminations have ended, but something tells me we'll still see contestants hunting each other down!
+- The Death Match is over. The extra bounties for other contestants are now suspended until further notice!
+- And that's the end of the Death Match event!
+- The Dead Go Boom is finished, but the echoes of those eliminations are sure to stay with us!
+- And that's a wrap. The Dead Go Boom event was proudly brought to you by our generous seasonal sponsors.
+- Bring out the defibrillators again. The Dead Go Boom event is finish!
+- And the Dead Go Boom event has ended with a bang!
+- And that's the end of The Dead Go Boom event!
+- We're at the end of this gameshow event. What a spectacle!
+- We've reached the end of this gameshow event!
+- Get ready for THE FINALS, fans! The ultimate showdown for out top contestants!
+- Get ready. The event will start in a few seconds.
+- Take the money and run! Each vanquished opponent is worth extra cash.
+- There's a target on everyone's back now. Contestants will earn even more cash when they eliminate other contestants.
+- Our contestants are about to run up the score. They will earn even more cash for eliminating other contestants.
+- This is going to be such a blast. Make the wrong move and you'll see what I mean. If you get eliminated you'll be going out with a BANG!
+- Parting is such sweet explosion. At least that's what our contestants who get eliminated in the arena will experience.
+- Endings are about to get a bit more explosive, as contestants that are eliminated in the arena will go ka-boom.
+- and it's The Dead Go Boom! Volatile Contestants!
+- It's colossal chaos time. We've cranked up the damage that contestants will experience in the arena.
+- Things about to down-right devastating in the arena, as any damage is about to be magnified, amplified, and intensified.
+- Things are about to get very dangerous in the arena, as damage will be cranked up a notch or twelve.
+- Watch your step - things are about to get a bit lighter!
+- Isaac Newton would not be happy with this. Everything from contestants to grenades are going to move differently.
+- Throw away your physics textbooks and hold on to your chairs. Things are about to move a bit differently.
+- We're about to get up close and personal with some serious cosmic debris.
+- Our contestants will have to look up and look out. We have meteors coming in.
+- It's time to see what event will try to knock our contestants off their game.
+- Okay, there's a new event coming up in the round for our contestants.
+- I wonder whether our contestants brought their rain gear. And a flashlight. It's dark and stormy in the arena.
+- A stormy night means poor visibility, but it's a great seting for our contestants to start some mischief.
+- Our contestants might want to head indoors. A stormy night in the arena could prove wuite distracting.
+- It's a wet one in the arena. The rain is blurring outdoor views, and it isn't making relaxing sounds either.
+- Lots of rain in the arena, and with that comes plenty of noise and distraction. It might be wise to head indoors.
+- I hope our contestants aren't scared of the dark, as it's nighttime in the arena with reduced visibility.....Boo.
+- Nighttime here, with reduced visibility. Hopefully our contestants will bring mightnight madness to the arena.
+- Nighttime here, with reduced visiblity. Our contestants are looking for a midnight snack and lots of cash.
+- Who knows what's going to be lurking around the corners out there in the dark? Low visibility for this round.
+- It's dark out, with reduced visibility, but it's not bedtime for our contestants. At least not yet!
+- They're signaling something, Scotty. They're saying game on!
+  Now, that's how you play to win this game show!
+- Aggressive and impressive!
+- Definitely not a defensive strategy!
+- I wonder what else they can get away with!
+- One skilled play can change the game!
+- Remember, that's illegal in many jurisdictions. But not here!
+- Will they make this a spree, I wonder?
+- But will there be consequences, Scotty?
+- Fortune favors the bold, Scotty!
+- That was unexpected!
+- Can you believe it!
+- Wow, that was a bold play!
+- They just upped the ante, Scotty!
+- Risky moves reap rewards!
+- A move that definitely sets the stakes higher, Scotty!
+- That could be a game-changer!
+- That gamble paid off big time, Scotty!
+- Ah, that was so well played!
+- Big rewards from a risky move!
+- New vaults in play. However, this late in the round it'll be a challenge to make something out of it. Let's see how it pans out!
+- New vaults are up for the taking, this opens up new opportunities for our contestants.
+- There's new vaults ready to be set in the motion on the map!
+## Scotty
+
+#### Potential Lore Voicelines
+#### Normal Voicelines
+- It's showtime, viewers! Let's kick of THE FINALS!
+- No more waiting, fans! THE FINALS are about to take off!
+- Right you are June! These contestants have nearly made it to the top. Can they reach even higher?
+- It's gonna be a doozy!
+- It's early evening here, so visibility is still quite good. For the arena, it's certainly the calm before the storm.
+- Our contestants will need to see what lies behind the fog tonight in the arena. For some of them, it will be a victory.
+- Our contestants' skills need to shine through the fog tonight, as we have poor visibility in the arena.
+- Our contestants may lose their way in the fog tonight, but they might find a path to fame and fortune.
+- Darkness descends and fog has crept into the arena. Watch out contestants. This round may feel a bit spooky.
+- The fog is so thick tonight that I can't see more than a few feet in front of me. Poor visibility for our contestants.
+- I'm sure it's a gorgeous day out there. I just can't see it with all this fog. Low visibility for our contestants this round.
+- This round, our contestants are going to be in a haze. Literally. Heavy fog and reduced visibility in the arena.
+- It is a pea-souper here. Thick fog and reduced visibility in the arena.
+- Lower visibility out there, and a foggy day is an ambush's best friend
+- The weather is not quite ideal here. That fog is going to make it just a bit harder to see.
+- Our contestants are going to be walking on sunshine this round. A bright day and good visibility in the arena.
+- A bright day in the arena with normal visibility, a literal place in the sun for our contestants.
+- Our round is blessed with glorious weather today. Normal visibility and plenty of sun.
+- Grab your SPF 50. There's lots of sun here today, and good visibility.
+- The sun is shining and visibility is normal. A great day to get famous, isn't it?
+- We have good visibility this afternoon. Perfect for some midday mayhem in the arena.
+- It's afternoon here. The weather brings good visibility and a chance to bask in fame.
+- It's afternoon here in the arena. Our contestants better not get caught taking a siesta if they hope to win.
+- It's afternoon here. No time for a coffee break, as we're about to start out round.
+- It's afternoon here. Hopefully our contestants don't get sluggish after lunch.
+- We have a clear morning in the arena. The question is: Will morning dreams come true for our contestants?
+- Good visibility this morning. Perfect for a contestant of destruction and skill.
+- It's breakfast time here. Don't worry Nama Tama. No one will scramble you. This time.
+- It's the dawning of a new day. We're being greeted with crisp morning air.
+- Let's see if the early bird gets the worm. We have a crystal clear morning in front of us!
+- Our contestants have just 30 seconds to impress our sponsors!
+- We're down to the last 30 seconds! Which team will triumph?
+- 30 seconds to go, folks!
+- Time is running out. only 30 seconds on the clock.
+- Who wants it more? Our contestants have 30 seconds to show the world.
+- 30 seconds left for our contestants to change the game!
+- With only 30 seconds to go, our contestants are still bringing the action!
+- 30 seconds left, June! Gah, I'm on the edge of my seat here!
+- We still have 30 seconds remaining.
+- We just entered the last 30 seconds of the match!
+- One-minute warning. This one-minute warning was brought to you by ISEUL-T!
+- One-minute warning. This one-minute warning was brought to by OSPUZE!
+- Sixty seconds left! I wonder if we'll see any tactical changes.
+- Our contestants need to hurry up! One minute left.
+- Time is flying by! Our contestants have one more minute to earn their fame!
+- A minute still remaining! Let's see what they make of it!
+- Our contestants will need to stay focused out there! Another minute to go!
+- Only a minute on the clock now.
+- Sixty seconds left. Our contestants need to pick it up a notch!
+- Less than a minute remaining! Now this the time for our contestants to ramp it up!
+- At the halfway point, our contestants are transcending realities, much like our sponsor ISEUL-T!
+- At the halfway point, our contestants are living up to OSPUZE's slogan of Pop. Pour. Perform.!
+- We're halfway through the match, and I bet the sponsors are impressed with the plays so far!
+- Half of this match has been played now. The competition is getting fierce!
+- This match just passed its midway point! A lot of action still in store for you, folks!
+- Halftime! Don't touch that dial. Things can change pretty quickly around here!
+- We are halfway through now! The anticipation is driving me crazy!
+- Halftime! The tension is rising by the minute!
+- The teams better keep their heads in the game, June! We just reached the midway point!
+- As usual, lots of action and destruction awaits, as we enter the second half of the match.
+- As we pass the halfway point of the match, you could cut the tension with a knife. Or an assassin's dagger. Or a cheese slicer.
+- Halfway through and the mayhem continues. Don't blink, folks!
+- Not a stale moment yet and we just passed the midway point of this bout!
+- We just passed the halfway point and I'm really impressed with the teams so far, June!
+- The second half of this match is underway. I bet there's a highlight reel play on the horizon!
+- Destruction and mayhem characterized the first half of this match. I can't wait for what comes next!
+- We just passed the midway point of this great match!
+- Don't blink, folks! Anything could happen in the second half of this match.
+- Things are heating up as we pass the halfway point of this match!
+- We're halfway through the round and there's been plenty of action. Let's see how the next half will play out.
+- Ah, I love the smell of a fresh vault in the arena!
+- Money may not grow on trees, but a new vault just appeared in the arena!
+- A new vault in the arena. The ultimate omen of mayhem here at THE FINALS!
+- Oh, a new vault! This is going to get very interesting, very fast!
+- Ah, I love this part of our show! Who will get to the new vault first?
+- Just what the doctor ordered: another vault!
+- A shiny new vault just spawned, June! Let's see who gets to it first!
+- And there is another vault available for our cash-hungry teams!
+- A new vault! Our contestants better not leave that unattended for too long!
+- Oh looks! A new vault is ready to be opened!
+- A new vault just appeared. Let's see who grabs that cash!
+- And just like that, a new vault appeared in the arena!
+- There's a new vault to fight for in the arena!
+- Ah, I love the smell of a fresh wave of vaults in the arena. An early predictor of chaos in the arena, as we have some new vaults!
+- Money may not grow on trees, but a bunch of new vaults just appeared in the arena!
+- New vaults in the arena. The ultimate omen of mayhem here at THE FINALS!
+- Oh, new vaults! This is going to get very interesting, very fast!
+- Ah, I love this part of our show! Who will get to the new vaults first?!
+- Just what the doctor ordered: more vaults!
+- Some shiny new vaults just spawned, June! Let's see who gets to them first!
+- And there is another set of vaults available for our cash-hungry teams!
+- New vaults! Our contestants better not leave those unattended for too long!
+- Oh look! Some new vaults are ready to be opened!
+- A fresh batch of vaults just appeared. Let's see who grabs that cash!
+- And just like that, more vaults have appeared in the arena!
+- New vaults just appeared in the arena! Watch our contestants go, go, go!
+- There are new vaults to fight for in the arena.
+- That's the final whistle, and the result is in!
+- It's all over folks - that's a wrap!
+- The clock has stopped and what a match we've just witnessed.
+- Time! All that's left is to confirm the result!
+- Time's up, and the curtain falls on this match.
+- It's all over and going into the books!
+- An exhilarating match, but now our game is over.
+- An amazing show of skill, but we are out of time!
+- That's the buzzer! Fantastic performance from all involved!
+- All out of time. Unbelievable determination from the competitors!
+- The Boundless have stolen a cash box! The Steamrollers are down to just one contestant, folks!
+- A chance to be a hero for The Steamrollers' last contestant here! Our sponsors are ready to be impressed!
+- The Steamrollers are in danger of getting wiped! One contestant left!
+- This is a bad spot! The Steamrollers' final member needs to keep their cool head here!
+- Uh-oh, only one contestant left for The Steamrollers!
+- The Mighty can't afford to lose another member. One contestant left!
+- Fighting for fame is The Mighty's last standing contestant!
+- The Mighty are pinning all their hopes of avoiding a team wipe on their last contestant!
+- Well. At least The Mighty's last contestant is looking sharp and fearless!
+- Uh-oh, only one contestant left for The Mighty!
+- I feel for The Vogues! They've been reduced to one member now!
+- I hope they practiced for this! The Vogues are missing all of their contestants but one!
+- It's a daunting experience being out there all alone, June! Let's see how The Vogues handle it!
+- The Vogues are facing some hardship! Just one courageous contestant left!
+- Uh-oh, only one contestant left for The Vogues!
+- Oh, this is bad! Just one contestant left for The Tough Shells!
+- Look at The Hough Shells' last contestant go! Lots of heart out there!
+- This could be bad for The Tough Shells, June! They are on the verge of a full team wipe!
+- A tough spot to be in! The Tough Shells are one contestant trying to avoid elimination!
+- Uh-oh, only one contestant left for The Tough Shells!
+- Oh no! Just a single contestant left in the arena for The Powerhouses!
+- The Powerhouses are in danger, but they still have one contestant going strong!
+- The final contestant of The Powerhouses needs to ride out this storm and avoid a full team wipe!
+- Uh-oh, only one contestant left for The Powerhouses!
+- This could get shocking, as The Shock & Awe are trying to avoid a full team wipe!
+- With only one member left, The Shock & Awe are dangerously close to a full team wipe! Just one member still in the arena!
+- With no one left to assist them, The Shock & Awe's last contestant could really leave their mark!
+- Uh-oh, only one contestant left for The Shock & Awe!
+- One contestant left for The Ultra-Rares, who are in danger of going extinct in the arena!
+- All but one contestant eliminated on The Ultra-Rares! They need to hang in there !
+- And The Ultra-Rares! They need to gang in there!
+- And The Ultra-Rares are facing a full team wipe. One contestant left!
+- A harsh situation for The Ultra-Rares, as they're hanging on with only one contestant in the arena!
+- Uh-oh! only one contestant left for The Ultra-Rares!
+- And now it's all up to the last member of The Retros!
+- Ouch! An uphill battle awaits The Retros, as they've lost all members except for one!
+- The Retros have only one contestant left, folks!
+- The Retros' last remaining contestant has a lot of weight on their shoulders now!
+- Uh-oh, only one contestant left for The Retros!
+- The only remaining contestant on The High Notes has an opportunity to shine here!
+- A team wipe might be in the cards if The High Notes' only standing member isn't careful!
+- The virtual rug has almost been pulled out from under The High Notes! One contestant left!
+- The last contestant on The High Notes needs to bring their A-game now to avoid a full team wipe!
+- Uh-oh, only one contestant left for The High Notes!
+- And The Socialites are down to only one member!
+- I sure do miss the the thrill of the game, June, but I do not envy The Socialites' only standing member at this point!
+- Ouch! And just like that, The Socialites are struggling with only one contestant in the arena!
+- All but one of The Socialites are out. Now is a chance for their last contestant to become a hero!
+- Uh-oh, only one contestant left for The Socialites!
+- Outnumbered but not outplayed, The Overdogs' last contestant is howing great resilience out there!
+- The Overdogs have seen better days! Their last-standing member needs to proceeed carefully now!
+- Ouch, that's gotta hurt! The Overdogs only have a single contestant in the arena now!
+- And now a lone wolf is trying to keep The Overdogs safe from a full team wipe!
+- Uh-oh, only one contestant left for The Overdogs!
+- Our sponsors are watching the last contestant on The Jet Setters, who has a chance to avoid a team wipe!
+- Outnumbered, but still going strong, is the last standing contestants of The Jet Setters!
+- Waiting for their teammates to respawn is The Jet Setters' last remaining contestant!
+- The Jet Setters are now just a single jet setter! One contestant left!
+- Uh-oh, only one contestant left for The Jet Setters!
+- Trouble has found The Kingfish! They're down to one contestant!
+- The world is watching as The Kingfish's remaining contestant has a chance to shine here!
+- This is a rough spot for The Kingfish. One remaining contestant is trying to keep them in the game!
+- The Kingfish are in trouble! Their last contestant needs to avoid elimination!
+- Uh-oh, only one contestant left for The Kingfish!
+- The Big Splash are experiencing some tough times! One contestant left!
+- Oh no! The Big Splash have lost all but one contestant!
+- Look at The Big Splash! One deserted contestant holding down the fort all by themselves!
+- And now The Big Splash's last contestant is trying to avoid elimination and a full team wipe!
+- Uh-oh, only one contestant left for The Big Splash!
+- Only one brave contestant on The Live Wires is still out there! I used to thrive in those situations, June!
+- The Live Wires are outnumbered, but their last member has a chance to impress our sponsors here!
+- Look at this! A lonely contestant on The Live Wires doing their best to avoid a team wipe!
+- The Live Wires need to play it smart now, June! They're down to a single contestant!
+- Uh-oh, only one contestant left for The Live Wires!
+- All but one contestant eliminated on The Boundless. This would be a perfect time to have equipped a defibrillator!
+- Oh, The Boundless are in trouble now. Just one contestant left to hold down the fort!
+- The last contestant for The Boundless is in survival mode now. No pressure there!
+- Only one member of The Boundless is still standing They'll need to proceed with caution!
+- Uh-oh, only one contestant left for The Boundless.
+- A wipeout and a setback for The Steamrollers.
+- Complete team-wipe for The Steamrollers.
+- Looks like a team wipeout for The Steamrollers.
+- Alas, The Steamrollers have been wiped out.
+- An awkward moment for The Steamrollers. Team wiped.
+- Yikes! Team wipe for The Steamrollers.
+- Ouch! The Steamrollers suffered a wipeout.
+- The Steamrollers will need to come back from that wipeout.
+- The Steamrollers will need to reboot. team wiped.
+- The Steamrollers will need to try again. Team wiped.
+- Team-wipe calamity for The Mighty.
+- A team-wipe mishap for The Mighty.
+- Complete team-wipe for The Mighty.
+- Looks like a team wipeout for The Mighty.
+- Looks like a team wipeout for The Mighty
+- An awkward moment for The Mighty. Team wiped.
+- That's a blow to The Mighty. Team wiped.
+- A bit of virtual catastrophe for The Mighty. Team wiped.
+- The Mighty will need to come back from that wipeout.
+- The Mighty will need to reboot. Team wiped.
+- The Mighty will need to try again. Team wiped.
+- The Vogues have been rattled. Team wiped.
+- A team-wipe mishap for The Vogues.
+- A bit of virtual catastrophe for The Vogues. Team wiped.
+- Adversity for The Vogues. Wipeout.
+- Complete team-wipe for The Vogues.
+- Alas. The Vogues have been wiped out.
+- Yikes! Team wipe for The Vogues.
+- The Vogues will need to come back from that wipeout.
+- The Vogues will need to reboot. Team wiped.
+- The Vogues will need to try again. Team wiped.
+- A wipeout and a setback for The Tough Shells.
+- Looks like a team wipeout for The Tough Shells.
+- An awkward moment for The Tough Shells. Team wiped.
+- Ouch! The Tough Shells suffered a wipeout.
+- That's a blow to The Tough Shells. Team wiped.
+- Misfortune for The Tough Shells. Team wiped.
+- Team-wipe calamity for The Tough Shells.
+- The Tough Shells will need to come back from that wipeout.
+- The Tough Shells will need to reboot. Team wiped.
+- The Tough Shells will need to try again. Team wiped.
+- The Powerhouses have been rattled. Team wiped.
+- That's a blow to The Powerhouses. Team wiped.
+- A team-wipe for The Powerhouses.
+- Alas. The Powerhouses have been wiped out.
+- An awkward moment for The Powerhouses. Team wiped.
+- Yikes! Team wipe for The Powerhouses.
+- Ouch! The Powerhouses suffered a wipeout!
+- The Powerhouses will need to come back from that wipeout.
+- The Powerhouses will need to reboot. Team wiped.
+- The Powerhouses will need to try again. Team wiped.
+- A wipeout and a setback for The Shock & Awe.
+- Complete team-wipe for The Shock & Awe.
+- Looks like a team wipeout for The Shock & Awe.
+- Misfortune for The Stock & Awe. Team wiped.
+- A bit of virtual catastrophe for The Shock & Awe. Team wiped.
+- Team-wipe calamity for The Shock & Awe.
+- Adversity for The Shock & Awe.
+- The Shock & Awe will need to come back from that wipeout.
+- The Shock & Awe will need to reboot. Team wiped.
+- The Shock & Awe will need to try again. Team wiped.
+- A wipeout and a setback for The Ultra-Rares.
+- Complete team-wipe for The Ultra-Rares.
+- Looks like a team wipeout for The Ultra-Rares.
+- Alas. The Ultra-Rares have been wiped out.
+- An awkward moment for The Ultra-Rares have been wiped out.
+- An awkward moment for The Ultra-Rares. Team wiped.
+- Yikes! Team wiped for The Ultra-Rares.
+- Ouch! The Ultra-Rares suffered a wipeout.
+- The Ultra-Rares will need to come back from that wipeout.
+- The Ultra-Rares will need to reboot. Team wiped.
+- The Ultra-Rares will need to try again. Team wiped.
+- The Retros have been rattled. Team wiped.
+- That's a blow to The Retros. Team wiped.
+- A team-wipe mishap for The Retros.
+- Misfortune for The Retros. Team wiped.
+- A bit of virtual catastrophe for The Retros. Team wiped.
+- Team-wipe calamity for The Retros. Adversity for The Retros. Wipeout.
+- The Retros will need to come back from that wipeout.
+- The Retros will need to reboot. Team wiped.
+- The Retros will need to try again. Team wiped.
+- Looks like a team wipeout for The High Notes.
+- Yikes! Team wipe for The High Notes.
+- Ouch! The High Notes suffered a wipeout.
+- Adversity for The High Notes. Wipeout.
+- Alas. The High Notes have been wiped out.
+- The High Notes have been rattled. Team wiped.
+- Misfortune for The High Notes. Team wiped.
+- The High Notes will need to come back from that wipeout.
+- The High Notes will need to reboot. Team wiped.
+- The High Notes will need to try again. Team wiped.
+- Team-wipe calamity for The Socialites.
+- A team-wipe mishap for The Socialites.
+- A team-wipe mishap for The Socialites.
+- Complete team-wipe for The Socialites.
+- Looks like a team wipeout for The Socialites.
+- An awkward moment for The Socialites. Team wiped.
+- That's a blow to The Socialites. Team wiped.
+- A bit of virtual catastrophe for The Socialites. team wiped.
+- The Socialites will need to come back from that wipeout.
+- The Socialites will need to reboot. Team wiped.
+- The Socialites will need to try again. Team wiped.
+- The Overdogs have been rattled. Team wiped.
+- A team-wipe mishap for The Overdogs.
+- A bit of virtual catastrophe for The Overdogs. Team wiped.
+- Adversity for The Overdogs. Wipeout.
+- Complete team-wipe for The Overdogs.
+- Alas. The Overdogs have been wiped out.
+- Yikes! Team wipe for The Overdogs.
+- The Overdogs will need to come back from that wipeout.
+- The Overdogs will need to reboot. Team wiped.
+- The Overdogs will need to try again. Team wiped.
+- A wipeout and a setback for The Jet Setters.
+- Looks like a team wipeout for The Jet Setters.
+- An awkward moment for The Jet Setters. Team wiped.
+- Ouch! The Jet Setters suffered wipeout.
+- That's a blow to The Jet Setters. Team wiped.
+- Misfortune for The Jet Setters. Team wiped.
+- Team-wipe calamity for the Jet Setters.
+- The Jet Setters will need to come back from that wipe out.
+- The Jet Setters will need to reboot. Team wiped.
+- The Jet Setters will need to try again. team wiped.
+- The Jet Setters will need to try again. Team wiped.
+- The Kingfish have been rattled. Team wiped.
+- That's a blow to The Kingfish. Team wiped.
+- A team-wipe mishap for The Kingfish.
+- Alas. The Kingfish have been wiped out.
+- An awkward moment for The Kingfish. Team wiped.
+- Yikes! Team wiped for The Kingfish.
+- Ouch! The Kingfish suffered a wipeout.
+- The Kingfish will need to come back from that wipeout.
+- The Kingfish will need to reboot. Team wiped.
+- The Kingfish will need to try again. Team wiped.
+- A wipeout and a setback for The Big Splash.
+- Complete team-wipe for The Big Splash.
+- Looks like a team wipeout for The Big Splash.
+- Misfortune for The Big Splash. Team wiped.
+- A bit of virtual catastrophe for The Big Splash. Team wiped.
+- Team-wipe calamity for The Big Splash.
+- Adversity for The Big Splash. Wipeout.
+- The Big Splash will need  to come back from that wipeout.
+- The Big Splash will need to reboot. Team wiped.
+- The Big Splash will need to try again. Team wiped.
+- A wipeout and a setback for The Live Wires.
+- Complete team-wipe for The Live Wires.
+- Looks like a team wipeout for The Live Wires.
+- Alas. The Live Wires have been wiped out.
+- An awkward moment for The Live Wires. Team wiped.
+- Yikes! Team wipe for The Live Wires.
+- Ouch! The Live Wires suffered a wipeout.
+- The Live Wires will need to come back from that wipeout.
+- The Live Wires will need to reboot. Team wiped.
+- The Steamrollers are in trouble right now. They'll need to up their game if they want to get to the next round.
+- Danger, danger, The Steamrollers are currently at risk of being eliminated.
+- 
+
+# Cosmetic Voicelines
+## Ariad
+
+- What you call a glitch, I call a gateway.
+- MultiCo calls us hackers, I call us liberators
+- Corporate firewalls? Cute.
+- They built the rules. I rewrote them.
+- Every system has a backdoor, even this one.
+- You play for sponsors, I play for me.
+
+## Valkyria
+
+- Vectors aligned, let's begin.
+- Cockpit's gone, but I'm still in control!
+- Mission's changed, but I have not.
+- Altitude was clarity, now I navigate code.
+- Clear the airspace, I'm coming in heavy!
+
+## Dede
+- The game's changed, I've changed faster!
+- Let's put on a show!
+- Face of the game? You're looking at it!
+- No panic, just patterns.
+- Keep up or stay out of the way.
+- New tricks? Please, I've seen them all.
+- I don't adapt, I shape the meta.
+- One step ahead as always.
+- Experience isn't just an advantage, it's the win condition.
+
+## The Devourer
+- Your output exceeds expectations.
+- Emotion resisted, purpose installed.
+- Your aim seems well calibrated, just like your feelings!
+- Target expired, order preserved.
+- Synchronization confirmed, proceed with unity.
+- Did you update your firmware this morning? You look buffered!
+- Second hydration break today, luxurious!
+
+## Sal Scoria
+- We. As one.
+- Together, unshaken.
+- Clarity. Unity. Progress.

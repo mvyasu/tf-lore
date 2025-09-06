@@ -5,6 +5,7 @@ date: 2023-12-07T00:00:00
 tags:
   - multico
   - mucodos
+  - credits
 draft: false
 ---
 **Video Link:** https://www.youtube.com/watch?v=D2Wbmc1yp5Y
