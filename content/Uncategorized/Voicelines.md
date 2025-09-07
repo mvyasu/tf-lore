@@ -541,6 +541,41 @@ draft: true
 - Danger, danger, The Steamrollers are currently at risk of being eliminated.
 - 
 
+
+First Cashout Complete
+- First cashout complete! Can you feel the intesity rising?!
+- There you have it! First cashout complete! But remember, it's not how our teams start, but how they finish!
+- First cashout complete! This is the spark that could light up an inferno in the arena!
+
+
+Overtime
+- Opportunity awaits for our contestants, as we're heading into overtime.
+- Oh a buzzer-beating play in the arena. That means we're heading to overtime!
+- One of our teams has trigger overtime, so we get to enjoy this match a bit longer. That was nice of them!
+- That play means we're getting a little bit of overtime in the arena. The fans will love that!
+- I'll need to get somebody to talk my virtual dog because this match is heading into overtime!
+- Overtime, just as I was about to head to the sponsors lounge for a snack and refreshments!
+- Overtime! Our contestants need to dig deep and find that extra bit of spirit.
+- It's time to see which team wants this more! Let's get ready for overtime!
+- Overtime! Let's see who can outlast the other! Get that cash!
+
+The Live Wires
+- The Live Wires are sparking into action!
+- Charging head, The Live Wires are on the move!
+
+
+- Stats don't lie. At least mine don't. `Team Name` really bowled us over in the last round with a superior performance. Can they repeat it?
+- `Team Name` shocked us all last time! What a blowout. Can they do it again?
+- Absolutely amazing victory for `Team Name` in the last round. It's been quite a while since we've seen that kind of domination in the arena!
+
+- `Team Name` have the momentum on their side coming into this match and will no doubt be looking to make the most of it!
+- `Team Name` has been in fine form lately and will be looking to maintain their place at the top of the standings with another win!
+- Can `Team Name` display the same energy and enthusiasm that propelled them to victory in their last match? Let's find out!
+- `Team Name` are on a roll after finishing last time and looking to cement a winning streak in this round!
+- `Team Name` bagged the win in the last match, so they will definitely be fired up to play this round!
+
+The stations are still standing, but the attackers aren't.
+
 # Cosmetic Voicelines
 ## Ariad
 

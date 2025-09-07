@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Meatspace!
+title: The Meatspace
 ---
 ![[Index_01_Header.png]]
 ## THE FINALS
