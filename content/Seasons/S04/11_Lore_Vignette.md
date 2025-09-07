@@ -6,6 +6,8 @@ tags:
   - "#vignette"
   - video
   - marcel
+  - scotty
+  - june
 draft: false
 ---
 **Video Link:** https://www.youtube.com/watch?v=eWN7cZqF9yg

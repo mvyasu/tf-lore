@@ -29,4 +29,4 @@ The gif contained various pieces of text. For example:
 >
 >WE ARE CNS
 
-Later on, the website would be updated to be more proper. However, that didn't happen until Season 4.
+Later on, the website would be updated to be more proper. However, that didn't happen until [Season 4](10_HOLTOW_Site).
