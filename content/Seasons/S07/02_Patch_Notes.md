@@ -1,7 +1,7 @@
 ---
-title: Season 6 Patch Notes
-description: A dump of potential lore-related copy from the Season 6 patch notes.
-date: 2025-03-10T00:00:00
+title: Season 7 Patch Notes
+description: A dump of potential lore-related copy from the Season 7 patch notes.
+date: 2025-06-12T00:00:00
 tags:
   - patch-notes
   - vaiiya
