@@ -15,6 +15,8 @@ During the same update that Super Cashball came out, we also got new preshow dia
 There are a few lines that seem to implicate some potential lore. It is unknown if all of the lines below are really related to lore or not.
 ### Scotty's Teammate
 
+![[Preshow_Voiceline_07_Scotty's_Teammate.wav]]
+
 >**SCOTTY:** Sometimes I miss my old teammate Razor.
 >
 >**JUNE:** What happened to him?
@@ -23,13 +25,25 @@ There are a few lines that seem to implicate some potential lore. It is unknown 
 
 ### Scotty's Comeback
 
+![[Preshow_Voiceline_08_Scotty's_Comeback.wav]]
+
 >**JUNE:** Do you ever think about a comeback?
 >
 >**SCOTTY:** And deny the fans of my brilliant voice? Ha! I could never be that selfish!
 
+### Scotty's Throat
+
+**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1407394267361448157)
+
+>**SCOTTY:** `[coughing and clearing throat]`
+>
+>**JUNE:** `[humming]`
+>
+>**SCOTTY:** Alright! Let's do this!
+
 ### Why Pro Juice?
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398111779275538622)
+![[Preshow_Voiceline_03_Pro_Juice.wav]]
 
 >**SCOTTY:** Hey! Why do they call it Pro Juice? Like, I mean, what's the amateur version?
 >
@@ -37,7 +51,7 @@ There are a few lines that seem to implicate some potential lore. It is unknown 
 
 ### Lock-in Scotty!
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398105132687691826)
+![[Preshow_Voiceline_02_Lock-in_Scotty.wav]]
 
 >**JUNE:** Come on Scotty! Lock-in!
 >
@@ -47,7 +61,7 @@ There are a few lines that seem to implicate some potential lore. It is unknown 
 
 ### Sponsor Radiation
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398083165758689380)
+![[Preshow_Voiceline_01_Sponsor_Radiation.wav]]
 
 >**JUNE:** `[cuts in]` the helmet, huh, said it blocks sponsor radiation!
 >
@@ -70,16 +84,6 @@ There are a few lines that seem to implicate some potential lore. It is unknown 
 >**JUNE:** That's a bit personal, don't you think?
 >
 >**SCOTTY:** That trophy's mine next year!
-
-### Scotty's Throat
-
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1407394267361448157)
-
->**SCOTTY:** `[coughing and clearing throat]`
->
->**JUNE:** `[humming]`
->
->**SCOTTY:** Alright! Let's do this!
 
 # Fun Dialogue
 
@@ -120,7 +124,7 @@ Most of the preshow dialogue is supposed to be funny rather than be about the lo
 
 ### Catering Bot
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398392793986109533)
+![[Preshow_Voiceline_05_Catering_Bot.wav]]
 
 >**JUNE:** Production replaced the catering bot. This one's passive aggressive!
 >
@@ -130,7 +134,7 @@ Most of the preshow dialogue is supposed to be funny rather than be about the lo
 
 ### Most Eliminations in a Match
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398392793986109533)
+![[Preshow_Voiceline_04_Most_Eliminations.wav]]
 
 >**JUNE:** You still hold the record for most eliminations in a match!
 >
@@ -142,7 +146,7 @@ Most of the preshow dialogue is supposed to be funny rather than be about the lo
 
 ### I'm So Great!
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1401958936785195129)
+![[Preshow_Voiceline_06_Im_So_Awesome.wav]]
 
 >**SCOTTY:** I'm so awesome! I'm so great! Yeah, yeah, yeah!
 >
@@ -174,6 +178,8 @@ Most of the preshow dialogue is supposed to be funny rather than be about the lo
 
 ### Scotty's Humming
 
+![[Preshow_Voiceline_09_Scotty's_Humming.wav]]
+
 >**SCOTTY:** `[humming]`
 >
 >**JUNE:** Scotty, stop!
@@ -181,6 +187,8 @@ Most of the preshow dialogue is supposed to be funny rather than be about the lo
 >**SCOTTY:** Oh! Sorry! `[clears throat]` Okay!
 
 ### I'm a Little Teapot
+
+![[Preshow_Voiceline_10_I'm_a_Little_Teapot.wav]]
 
 >**JUNE:** I'm a little teapot, here's my stout!
 >
