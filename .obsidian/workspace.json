@@ -11,10 +11,14 @@
             "id": "e83eefb122e01938",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/Seasons/S07/07_Preshow_Dialogue.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "07_Preshow_Dialogue"
             }
           }
         ]
@@ -165,8 +169,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "abbf5a850ee02e51",
+  "active": "e83eefb122e01938",
   "lastOpenFiles": [
+    "content/Seasons/S07/02_Patch_Notes.md",
+    "content/Seasons/S04/06_Fortune_Stadium_Analysis.md",
+    "content/Seasons/S07/00_Media/Preshow_Voiceline_01_Sponsor_Radiation.wav",
     "content/Seasons/S07/07_Preshow_Dialogue.md",
     "content/Seasons/S07/00_Media/Preshow_Voiceline_10_I'm_a_Little_Teapot.wav",
     "content/Seasons/S07/00_Media/Preshow_Voiceline_09_Scotty's_Humming.wav",
@@ -177,10 +184,8 @@
     "content/Seasons/S07/00_Media/Preshow_Voiceline_04_Most_Eliminations.wav",
     "content/Seasons/S07/00_Media/Preshow_Voiceline_03_Pro_Juice.wav",
     "content/Seasons/S07/00_Media/Preshow_Voiceline_02_Lock-in_Scotty.wav",
-    "content/Seasons/S07/00_Media/Preshow_Voiceline_01_Sponsor_Radiation.wav",
     "content/Seasons/S07/05_Nozomi_Citadel_Analysis.md",
     "content/Seasons/S07/04_Clarity_Unity_Progress.md",
-    "content/Seasons/S07/02_Patch_Notes.md",
     "content/Seasons/S07/03_Sponorships.md",
     "content/Seasons/S04/08_Soundtrack.md",
     "content/Seasons/S08/04_World_Tour.md",
@@ -199,7 +204,6 @@
     "content/Seasons/S04/12_Lore_Vignette.md",
     "content/Seasons/S04/00_Media/S04_Soundtrack_02.png",
     "content/Seasons/S04/07_World_Tour.md",
-    "content/Seasons/S04/06_Fortune_Stadium_Analysis.md",
     "content/Seasons/S04/09_ENGIMO_Ad.md",
     "content/Seasons/S04/10_HOLTOW_Ad.md",
     "content/Seasons/S04/01_Trailer.md",

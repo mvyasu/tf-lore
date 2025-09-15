@@ -17,11 +17,11 @@ There are a few lines that seem to implicate some potential lore. It is unknown 
 
 ![[Preshow_Voiceline_07_Scotty's_Teammate.wav]]
 
->**SCOTTY:** Sometimes I miss my old teammate Razor.
+>**SCOTTY:** Sometimes I miss my old teammate Razor. What a guy!
 >
->**JUNE:** What happened to him?
+>**JUNE:** What ever happened to him?
 >
->**SCOTTY:** Last time I heard, coaching in Osaka.
+>**SCOTTY:** Last I heard, coaching in Osaka!
 
 ### Scotty's Comeback
 
