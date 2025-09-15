@@ -1,6 +1,6 @@
 ---
-title: Season 7 World Tour
-description: A post going over all the World Tour stops of Season 7 of THE FINALS.
+title: Season 8 World Tour
+description: A post going over all the World Tour stops of Season 8 of THE FINALS.
 date: 2025-09-10T00:00:00
 tags:
   - world-tour
