@@ -22,13 +22,13 @@ draft: false
 **Arenas:** Bernal, Monaco
 **Modifiers:** None
 
->**Narrator:** VAIIYA. We, as one.
+>**NARRATOR:** VAIIYA. We, as one.
 >
->**Scotty:** Here we go! Our first World Tour stop this season is brought to you by our cyber security experts VAIIYA.
+>**SCOTTY:** Here we go! Our first World Tour stop this season is brought to you by our cyber security experts VAIIYA.
 >
->**June:** Yes, experts. And with the stunning new addition of Bernal, inspired by vibrant streets and breathtaking vistas, this season is already turning heads.
+>**JUNE:** Yes, experts. And with the stunning new addition of Bernal, inspired by vibrant streets and breathtaking vistas, this season is already turning heads.
 >
->**Scotty:** Ready up contestants! It's time to cash out!
+>**SCOTTY:** Ready up contestants! It's time to cash out!
 ### WEEK 2 - MERRY MAYHEM
 
 **Arenas:** Bernal, Kyoto, Las Vegas, Monaco
@@ -36,15 +36,15 @@ draft: false
 - Christmas-themed arenas.
 - Snowballs are available as arena carriables that can be picked up and thrown to contestant and damage on impact.
 
->**Narrator:** VAIIYA. We, as one.
+>**NARRATOR:** VAIIYA. We, as one.
 >
->**Scotty:** As the holiday season rolls in, we're adding a frosty twist to our next World Tour stop!
+>**SCOTTY:** As the holiday season rolls in, we're adding a frosty twist to our next World Tour stop!
 >
->**June:** That's right! The arenas are packed with snowballs, bringing some icy fun to the fight.
+>**JUNE:** That's right! The arenas are packed with snowballs, bringing some icy fun to the fight.
 >
->**Scotty:** Cashout just got a whole lot chillier, and the competition is heating up!
+>**SCOTTY:** Cashout just got a whole lot chillier, and the competition is heating up!
 >
->**June:** Welcome to Merry Mayhem people!
+>**JUNE:** Welcome to Merry Mayhem people!
 ### WEEK 3 - BOOST PROTOCOL
 
 **Arenas:** Horizon, Bernal, Kyoto, Monaco
@@ -53,13 +53,13 @@ draft: false
 - Snowballs are available as arena carriables that can be picked up and thrown to contestant and damage on impact.
 - Additional XP Boost when in the party.
 
->**Narrator:** VAIIYA. We, as one.
+>**NARRATOR:** VAIIYA. We, as one.
 >
->**Scotty:** We're heading into VAIIYA's final World Tour stop folks!
+>**SCOTTY:** We're heading into VAIIYA's final World Tour stop folks!
 >
->**June:** And as a parting gift before they hand things over to ISEUL-T, all contestants get and XP-boost when in a party.
+>**JUNE:** And as a parting gift before they hand things over to ISEUL-T, all contestants get and XP-boost when in a party.
 >
->**Scotty:** Love it! Now let's give VAIIYA a proper send off. Let the mayhem begin!
+>**SCOTTY:** Love it! Now let's give VAIIYA a proper send off. Let the mayhem begin!
 
 ![[S04_World_Tour_03_ISEUL-T_Cup.png]]
 # ISEUL-T CUP
@@ -70,24 +70,24 @@ draft: false
 **Arenas:** Las Vegas, Seoul, Bernal, Skyway Stadium
 **Modifiers:** None
 
->**Scotty:** The VAIIYA chapter has closed and now it's time to welcome ISEUL-T World Tour in style!
+>**SCOTTY:** The VAIIYA chapter has closed and now it's time to welcome ISEUL-T World Tour in style!
 >
->**June:** Last season, ISEUL-T stood out as our fan-favorite sponsor and they'll be looking to replicate that success with an even bolder look.
+>**JUNE:** Last season, ISEUL-T stood out as our fan-favorite sponsor and they'll be looking to replicate that success with an even bolder look.
 >
->**Scotty:** Alright ISEUL-T, the stage is yours! Let's get this rolling!
+>**SCOTTY:** Alright ISEUL-T, the stage is yours! Let's get this rolling!
 ### WEEK 2 - TIME TO SHINE
 
 **Arenas:** Seoul, Fortune Stadium, Horizon, Las Vegas
 **Modifiers:**
 - Stay near your Cashout stations to gain a fan bonus.
 
->**Scotty:** A new World Tour stop and a new chance to impress the fans! Right June?
+>**SCOTTY:** A new World Tour stop and a new chance to impress the fans! Right June?
 >
->**June:** Yup! And this time it's all about presence. Staying close to a cashout station you control means you'll rack up extra fans.
+>**JUNE:** Yup! And this time it's all about presence. Staying close to a cashout station you control means you'll rack up extra fans.
 >
->**Scotty:** And it's all thanks to ISEUL-T, making sure this stop is your time to shine!
+>**SCOTTY:** And it's all thanks to ISEUL-T, making sure this stop is your time to shine!
 >
->**June:** The stage is set contestants! Let's see who truly shines!
+>**JUNE:** The stage is set contestants! Let's see who truly shines!
 ### WEEK 3 - STRIKE A POSE
 
 **Arenas:** Kyoto, Bernal, Skyway Stadium, Fortune Stadium
@@ -95,11 +95,11 @@ draft: false
 - When a player interacts with a vault or cashout, a dance floor appears for 5 seconds. Strike and hold a pose for 2 seconds to earn $1000 for your team.
 - Snowy Kyoto Arenas.
 
->**June:** ISEUL-T's final stop is live contestants! And they're ready to see your flashiest moves!
+>**JUNE:** ISEUL-T's final stop is live contestants! And they're ready to see your flashiest moves!
 >
->**Scotty:** That's right! This stop rewards you for showing off. Emote near a cashout your team starts, completes, or steals, and you'll earn extra cash!
+>**SCOTTY:** That's right! This stop rewards you for showing off. Emote near a cashout your team starts, completes, or steals, and you'll earn extra cash!
 >
->**June:** Who's ready to strike the boldest pose and stack up the cash? Let's find out!
+>**JUNE:** Who's ready to strike the boldest pose and stack up the cash? Let's find out!
 
 ![[S05_World_Tour_02_DISSUN_Challenge.png]]
 # DISSUN CHALLENGE
@@ -112,27 +112,27 @@ draft: false
 - Healing Lantern are available as arena carriables that can be picked up and thrown to contestant and healing on impact.
 - Lunar New Year-themed Arenas.
 
->**Dissun Driver:** Power is power, and you want it.
+>**DISSUN DRIVER:** Power is power, and you want it.
 >
->**Scotty:** Lunar New Year is right around the corner and the World Tour is heating up to celebrate!
+>**SCOTTY:** Lunar New Year is right around the corner and the World Tour is heating up to celebrate!
 >
->**June:** Sponsored by DISSUN, this stop brings a game changing twist: a brand new healing lantern!
+>**JUNE:** Sponsored by DISSUN, this stop brings a game changing twist: a brand new healing lantern!
 >
->**Scotty:** Hit your allies with a burst of healing on impact and leave behind a trail that heals over time.
+>**SCOTTY:** Hit your allies with a burst of healing on impact and leave behind a trail that heals over time.
 >
->**June:** New year, new tactics! Ready up contestants!
+>**JUNE:** New year, new tactics! Ready up contestants!
 ### WEEK 2 - CLASSIC CASHOUT
 
 **Arenas:** Kyoto, Seoul, Monaco, Las Vegas
 **Modifiers:** None
 
->**Dissun Driver:** Power is power, and you want it.
+>**DISSUN DRIVER:** Power is power, and you want it.
 >
->**Scotty:** The action doesn't stop contestants! Our Tour Tour continues with another DISSUN-sponsored showdown!
+>**SCOTTY:** The action doesn't stop contestants! Our Tour Tour continues with another DISSUN-sponsored showdown!
 >
->**June:** No twists, no tricks. Just pure skill and strategy, and proving who's the best under standard tournament rules.
+>**JUNE:** No twists, no tricks. Just pure skill and strategy, and proving who's the best under standard tournament rules.
 >
->**Scotty:** DISSUN's got their eyes on the best of the best. It's time to impress!
+>**SCOTTY:** DISSUN's got their eyes on the best of the best. It's time to impress!
 ### WEEK 3 - LOVE HURTS
 
 **Arenas:** Kyoto, Seoul, Skyway Stadium, Las Vegas
@@ -140,11 +140,11 @@ draft: false
 - Love Bombs are available as arena carriables, left behind by eliminated contestants and detonating after a short delay.
 - Valentine-themed Arenas.
 
->**Scotty:** It's that time of the year folks! Love is in the air and it's explosive!
+>**SCOTTY:** It's that time of the year folks! Love is in the air and it's explosive!
 >
->**June:** It sure is Scotty! During this stop eliminated contestants will drop a heart-shaped bomb that you can pick up and throw before it goes BOOM!
+>**JUNE:** It sure is Scotty! During this stop eliminated contestants will drop a heart-shaped bomb that you can pick up and throw before it goes BOOM!
 >
->**Scotty:** Yup! Get ready to feel the love, or dodge it!
+>**SCOTTY:** Yup! Get ready to feel the love, or dodge it!
 
 ![[S05_World_Tour_03_CNS.png]]
 # //SYS$WT.CNS
@@ -163,15 +163,15 @@ draft: false
 **Modifiers:**
 - CNS-themed Arenas.
 
->**June:** Scotty? Can you hear me?
+>**JUNE:** Scotty? Can you hear me?
 >
 >**Ariad:** Good evening. We are CNS.
 >
->**Scotty:** Hello? June?
+>**SCOTTY:** Hello? June?
 >
 >**Ariad:** We are still here. For now, no noise. Just the moment. But something stirs on the horizon.
 >
->**Scotty:** For goodness' sake, just get out of our game!
+>**SCOTTY:** For goodness' sake, just get out of our game!
 ### WEEK 3 - OVERRIDE COMPLETE...
 
 **Arenas:** SYS$HORIZON, Skyway Stadium, Fortune Stadium, Bernal, Monaco, Seoul
@@ -188,10 +188,10 @@ draft: false
 **Arenas:** Fortune Stadium, Kyoto, Las Vegas, Monaco, Skyway Stadium, Seoul, SYS$HORIZON, Bernal
 **Modifiers:** None
 
->**Scotty:** And we're back folks! The CNS situation has been handled, and it's time for our sponsor showdown.
+>**SCOTTY:** And we're back folks! The CNS situation has been handled, and it's time for our sponsor showdown.
 >
->**June:** Two weeks of nonstop action to decide who takes the crown!
+>**JUNE:** Two weeks of nonstop action to decide who takes the crown!
 >
->**Scotty:** From here on out, every match played and every fan you earn will score championship points for your sponsor!
+>**SCOTTY:** From here on out, every match played and every fan you earn will score championship points for your sponsor!
 >
->**June:** No holding back now contestants! Get out there and show that your sponsor belongs at the top!
+>**JUNE:** No holding back now contestants! Get out there and show that your sponsor belongs at the top!

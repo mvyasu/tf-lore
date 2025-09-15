@@ -23,39 +23,39 @@ The start of the advertisement shows the following text one-by-one:
 ![[S05_Iseul-T_Ad_08.png]]
 ![[S05_Iseul-T_Ad_09.png]]
 
->**Narrator:** Absorbe. Ce que c'est mondes. Mondes.
+>**NARRATOR:** Absorbe. Ce que c'est mondes. Mondes.
 
 Roughly translates to "Absorb. What is this world? World."
 
 ![[S05_Iseul-T_Ad_10.png]]
 ![[S05_Iseul-T_Ad_11.png]]
 
->**Narrator:** Pour misérables et fortunés.
+>**NARRATOR:** Pour misérables et fortunés.
 
 Roughly translated to "For the poor and the wealthy."
 
-![[Pasted image 20250902222745.png]]
+![[S05_Iseul-T_Ad_12.png]]
 
 >**Distorted Voice:** ABSURD
 
 ![[S05_Iseul-T_Ad_13.png]]
 ![[S05_Iseul-T_Ad_14.png]]
 
->**Narrator:** Ce que tu désires devenir.
+>**NARRATOR:** Ce que tu désires devenir.
 
 Roughly translates to "What you want to become."
 
 ![[S05_Iseul-T_Ad_15.png]]
 ![[S05_Iseul-T_Ad_16.png]]
 
->**Narrator:** C'est ce que tu es alors...
+>**NARRATOR:** C'est ce que tu es alors...
 
 Roughly translates to "That's what you are so..."
 
 ![[S05_Iseul-T_Ad_17.png]]
 ![[S05_Iseul-T_Ad_18.png]]
 
-> **Narrator:** ABSORBE. ABSORBE.
+> **NARRATOR:** ABSORBE. ABSORBE.
 
 ![[S05_Iseul-T_Ad_19.png]]
 

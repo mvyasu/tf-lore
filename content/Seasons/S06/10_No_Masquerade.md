@@ -17,7 +17,7 @@ draft: false
 
 ![[S06_No_Masquerade_01.png]]
 
->**Narrator:** Clarity. Unity. Progress. `[glitch noises]`
+>**NARRATOR:** Clarity. Unity. Progress. `[glitch noises]`
 
 ![[S06_No_Masquerade_02.png]]
 ![[S06_No_Masquerade_03.png]]
@@ -26,20 +26,20 @@ draft: false
 
 ![[S06_No_Masquerade_04.png]]
 
->**Scotty:** Oh, no, no. Quick, go to commercials!
+>**SCOTTY:** Oh, no, no. Quick, go to commercials!
 >
->**June:** That was the commercial Scotty!
+>**JUNE:** That was the commercial Scotty!
 
 ![[S06_No_Masquerade_05.png]]
 
->**Marcel:** Hey, keep it together! I'll tell you what we're going to do. Absolutely nothing.
+>**MARCEL:** Hey, keep it together! I'll tell you what we're going to do. Absolutely nothing.
 >
->**Scotty:** What?
+>**SCOTTY:** What?
 >
->**June:** Nothing?
+>**JUNE:** Nothing?
 >
->**Scotty:** Sir, I get playing the ratings game, but–
+>**SCOTTY:** Sir, I get playing the ratings game, but–
 >
->**Marcel:** Stick to the program as planned. Some doors are left unlocked on purpose.
+>**MARCEL:** Stick to the program as planned. Some doors are left unlocked on purpose.
 >
 >`[glitch noises]`

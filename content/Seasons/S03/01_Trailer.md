@@ -20,7 +20,7 @@ draft: false
 
 Three contestants in VAIIYA Arena Security uniforms barge through a double door and scan their surroundings.
 
->**June:** If they hit that reset button, it can take us anywhere!
+>**JUNE:** If they hit that reset button, it can take us anywhere!
 
 >**INTRUSION CONTAINED**
 >**PURGING MEMORY**
@@ -70,7 +70,7 @@ A shot of five other contestants in more traditional Japanese clothing is then s
 
 Both teams of five then charge at each other while yelling.
 
->**Announcer:** Here we go!
+>**ANNOUNCER:** Here we go!
 
 ![[S03_Trailer_10_Kyoto_Arena.png]]
 

@@ -17,33 +17,33 @@ draft: false
 
 ![[S01_Lore_Vignette_01_01_THE_FINALS.png]]
 
->**Scotty:** It's lights out in the arena. From all of us here at THE FINALS, thanks for watching!
+>**SCOTTY:** It's lights out in the arena. From all of us here at THE FINALS, thanks for watching!
 
 ![[S01_Lore_Vignette_01_02_Offline.png]]
 
->**June:** And we're out!
+>**JUNE:** And we're out!
 >
->**Scotty:** Time an OPSUZE Pro Juice!
+>**SCOTTY:** Time an OPSUZE Pro Juice!
 >
->**June:** You actually drink those?
+>**JUNE:** You actually drink those?
 >
->**Scotty:** Wouldn't want Sofia to hear you say that.
+>**SCOTTY:** Wouldn't want Sofia to hear you say that.
 >
->**June:** Oh she has enough on her plate with the recent hacks. Trust me.
+>**JUNE:** Oh she has enough on her plate with the recent hacks. Trust me.
 >
->**Scotty:** They're not hacks June, they're glitches.
+>**SCOTTY:** They're not hacks June, they're glitches.
 
 ![[S01_Lore_Vignette_01_03_Holtow.png]]
 
->**Scotty:** Besides, HOLTOW's not worried.
+>**SCOTTY:** Besides, HOLTOW's not worried.
 >
->**June:** They don't run the show, they just sponsor it. Someone put those messages in the system.
+>**JUNE:** They don't run the show, they just sponsor it. Someone put those messages in the system.
 
 ![[S01_Lore_Vignette_01_04_Seek_the_Truth.png]]
 
->**Scotty:** Ah, you worry too much!
+>**SCOTTY:** Ah, you worry too much!
 >
->**June:** You keep telling yourself that Scotty. The writing's on the wall, literally.
+>**JUNE:** You keep telling yourself that Scotty. The writing's on the wall, literally.
 
 ![[S01_Lore_Vignette_01_05_One_Night.png]]
 

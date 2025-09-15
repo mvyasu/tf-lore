@@ -28,7 +28,7 @@ It then shows multiple shots of contestants fighting inside the new arena. After
 
 The next shot is of [The Announcer](https://www.thefinals.wiki/wiki/The_Announcer) getting up from a chair and yelling the following:
 
->**Announcer:** This trio dominated the rooftops of Monaco, and join Diamond League at Skyway Stadium! `fades into the background`
+>**ANNOUNCER:** This trio dominated the rooftops of Monaco, and join Diamond League at Skyway Stadium! `fades into the background`
 
 He says that while a trio including [Odilia](https://www.thefinals.wiki/wiki/Odilia), walking down the hallway before a round of THE FINALS.
 
@@ -42,7 +42,7 @@ There are also a few frames showing an OSPUZE can surrounded by tentacles.
 
 As the trailer continues to show more clips including new Season 1 content, The Announcer says:
 
->**Announcer:** Sensational! No room from The States here at THE FINALS!
+>**ANNOUNCER:** Sensational! No room from The States here at THE FINALS!
 
 ![[S01_Launch_Trailer_06_Dust_Storm.png]]
 

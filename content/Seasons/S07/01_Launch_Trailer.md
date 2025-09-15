@@ -23,7 +23,7 @@ The video starts off by quickly cycling through multiple clips from previous tra
 
 ![[S07_Launch_Trailer_03_Versus.png]]
 
-> **Announcer:** Here we go!
+> **ANNOUNCER:** Here we go!
 
 Multiple clips of contestants fighting on Season 7's new map, Nozomi/Citadel, are shown.
 

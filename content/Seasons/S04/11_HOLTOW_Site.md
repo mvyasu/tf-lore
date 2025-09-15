@@ -24,12 +24,11 @@ The video shown here is the same exact video as the [Sun Insurance Ad](https://w
 ## /general-6
 #### general-6 — HOLTOW
 
+**DISCLAIMER:** For a small period of time, a page was available containing some unseen HOLTOW-related text. The page was removed pretty quick and it is unknown if the information on it is accurate or relevant.
+
 ![[S04_HOLTOW_Site_03.png]]
 ![[S04_HOLTOW_Site_04.png]]
 ![[S04_HOLTOW_Site_05.png]]
-
-For a small period of time, a page was available containing some unseen HOLTOW-related text. The page was removed pretty quick and it is unknown if the information on it is accurate or relevant.
-
 #### You can risk it all.
 
 **Dream it.**
@@ -44,4 +43,4 @@ Dare to Risk Everything You Own – step beyond your comfort zone, embrace the u
 
 "Leadership is not about being in charge, it's about taking charge of the vision and inspiring others to reach for the stars. Let's dream big together, work hard, and make magic happen"
 
-–Quemby Rutile, CEO HOLTOW
+\- Quemby Rutile, CEO HOLTOW

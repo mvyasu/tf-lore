@@ -86,20 +86,20 @@ Tried this spot ... Transcendant ... You wouldn't understand ...
 #Discuss #DebateMe
 ```
 
->**Narrator:** The real world can be... unfriendly, misleading, confusing. But your world doesn't have to be.
+>**NARRATOR:** The real world can be... unfriendly, misleading, confusing. But your world doesn't have to be.
 
 ![[S06_Reality_Shield_Ad_03.png]]
 ![[S06_Reality_Shield_Ad_04.png]]
 ![[S06_Reality_Shield_Ad_05.png]]
 
->**Narrator:** Reality Shield will protect you. Cutting out the noise. Making the world perfect.
+>**NARRATOR:** Reality Shield will protect you. Cutting out the noise. Making the world perfect.
 
 At this portion of the ad multiple social media posts can be seen posted on a platform called FeedMe.
 
 ![[S06_Reality_Shield_Ad_06.png]]
 
-> **Narrator:** We do not censor. We cultivate.
+> **NARRATOR:** We do not censor. We cultivate.
 
 ![[S06_Reality_Shield_Ad_07.png]]
 
-> **Narrator:** ENGIMO
+> **NARRATOR:** ENGIMO

@@ -15,54 +15,72 @@ During the same update that Super Cashball came out, we also got new preshow dia
 There are a few lines that seem to implicate some potential lore. It is unknown if all of the lines below are really related to lore or not.
 ### Scotty's Teammate
 
->**Scotty:** Sometimes I miss my old teammate Razor.
+>**SCOTTY:** Sometimes I miss my old teammate Razor.
 >
->**June:** What happened to him?
+>**JUNE:** What happened to him?
 >
->**Scotty:** Last time I heard, coaching in Osaka.
+>**SCOTTY:** Last time I heard, coaching in Osaka.
+
+### Scotty's Comeback
+
+>**JUNE:** Do you ever think about a comeback?
+>
+>**SCOTTY:** And deny the fans of my brilliant voice? Ha! I could never be that selfish!
 
 ### Why Pro Juice?
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398111779275538622)
 
->**Scotty:** Hey! Why do they call it Pro Juice? Like, I mean, what's the amateur version?
+>**SCOTTY:** Hey! Why do they call it Pro Juice? Like, I mean, what's the amateur version?
 >
->**June:** Water Scotty! They used to call it water!
+>**JUNE:** Water Scotty! They used to call it water!
+
 ### Lock-in Scotty!
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398105132687691826)
 
->**June:** Come on Scotty! Lock-in!
+>**JUNE:** Come on Scotty! Lock-in!
 >
->**Scotty:** Umm... Let's do this!
+>**SCOTTY:** Umm... Let's do this!
 >
->**Scotty:** `[clears throat]` Okay! Okay!
+>**SCOTTY:** `[clears throat]` Okay! Okay!
 
 ### Sponsor Radiation
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398083165758689380)
 
->**June:** `[cuts in]` the helmet, huh, said it blocks sponsor radiation!
+>**JUNE:** `[cuts in]` the helmet, huh, said it blocks sponsor radiation!
 >
->**Scotty:** Ha ha! I want my brain to get branded! Anyway, it's show time!
+>**SCOTTY:** Ha ha! I want my brain to get branded! Anyway, it's show time!
 
 ### Holtow Asteroid Insurance
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1398794114761228368)
 
->**Scotty:** Ahh.. Have you heard that Holtow is offering Asteroid Insurance again?
+>**SCOTTY:** Ahh.. Have you heard that Holtow is offering Asteroid Insurance again?
 >
->**June:** Huh! Classic upsell! You trip once and suddenly you're underneath your watch!
+>**JUNE:** Huh! Classic upsell! You trip once and suddenly you're underneath your watch!
 
 ### Commentator of the Year
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1407469182056009928)
 
->**Scotty:** So, miss Commentator of the Year! Mind telling us what that title pays?
+>**SCOTTY:** So, miss Commentator of the Year! Mind telling us what that title pays?
 >
->**June:** That's a bit personal, don't you think?
+>**JUNE:** That's a bit personal, don't you think?
 >
->**Scotty:** That trophy's mine next year!
+>**SCOTTY:** That trophy's mine next year!
+
+### Scotty's Throat
+
+**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1407394267361448157)
+
+>**SCOTTY:** `[coughing and clearing throat]`
+>
+>**JUNE:** `[humming]`
+>
+>**SCOTTY:** Alright! Let's do this!
+
 # Fun Dialogue
 
 Most of the preshow dialogue is supposed to be funny rather than be about the lore.
@@ -70,95 +88,104 @@ Most of the preshow dialogue is supposed to be funny rather than be about the lo
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1398063613507534869)
 
->**June:** You screamed "technical foul"?
+>**JUNE:** You screamed "technical foul"?
 >
->**Scotty:** It was a distraction play! Worked like a charm!
+>**SCOTTY:** It was a distraction play! Worked like a charm!
 >
->**June:** You were eliminated thirty seconds in!
+>**JUNE:** You were eliminated thirty seconds in!
 >
->**Scotty:** Exactly! Charm!
+>**SCOTTY:** Exactly! Charm!
 
 ### Cashout for Me!
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1397939341766168677)
 
->**June:** Cashout for me! Cashout for you!
+>**JUNE:** Cashout for me! Cashout for you!
 >
->**Scotty:** June!
+>**SCOTTY:** June!
 >
->**June:** Yeah?
+>**JUNE:** Yeah?
 >
->**Scotty:** It's time.
+>**SCOTTY:** It's time.
 
 ### OSPUZE for Lunch!
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1398622610241228881)
 
->**Scotty:** Ma-me-me... I'm a real boy, I'm a grown up, I'm working nine to five! YEAH! OSPUZE FOR LUNCH!
+>**SCOTTY:** Ma-me-me... I'm a real boy, I'm a grown up, I'm working nine to five! YEAH! OSPUZE FOR LUNCH!
 >
 >`[OSPUZE cracks open]`
 >
->**Scotty:** `[clears throat]` Alright.
+>**SCOTTY:** `[clears throat]` Alright.
+
 ### Catering Bot
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398392793986109533)
 
->**June:** Seduction replaced the catering bot. This one's passive aggressive!
+>**JUNE:** Production replaced the catering bot. This one's passive aggressive!
 >
->**Scotty:** Yeah! It told me: "Enjoy, if you think you deserve it!"
+>**SCOTTY:** Yeah! It told me: "Enjoy, if you think you deserve it!"
 >
->**June:** Eh heh!
+>**JUNE:** Eh heh!
 
 ### Most Eliminations in a Match
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1398392793986109533)
 
->**June:** You still hold the record for most eliminations in a match!
+>**JUNE:** You still hold the record for most eliminations in a match!
 >
->**Scotty:** Oh, ha! Stop it!
+>**SCOTTY:** Oh, ha! Stop it!
 >
->**June:** I meant getting eliminated.
+>**JUNE:** I meant getting eliminated.
 >
->**Scotty:** Oh.
+>**SCOTTY:** Oh.
 
 ### I'm So Great!
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1401958936785195129)
 
->**Scotty:** I'm so awesome! I'm so great! Yeah, yeah, yeah!
+>**SCOTTY:** I'm so awesome! I'm so great! Yeah, yeah, yeah!
 >
->**June:** Scotty!
+>**JUNE:** Scotty!
 >
->**Scotty:** Oh! `[clears throat]` Alright, alright!
+>**SCOTTY:** Oh! `[clears throat]` Alright, alright!
 
 ### Stop Practicing Puns
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1400460724160958565)
 
->**June:** Big Splash splashes. The Steamrollers flattening competition.
+>**JUNE:** Big Splash splashes. The Steamrollers flattening competition.
 >
->**Scotty:** Stop practicing puns. We're soon on.
+>**SCOTTY:** Stop practicing puns. We're soon on.
 >
->**June:** Hey! These jokes don't write themselves you know!
+>**JUNE:** Hey! These jokes don't write themselves you know!
 >
->**Scotty:** Hm! Here we go!
+>**SCOTTY:** Hm! Here we go!
 
 ### Scotty's Fridge
 
 **Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1204741064800338000/1407375902937055342)
 
->**Scotty:** I swear my fridge judged me last night!
+>**SCOTTY:** I swear my fridge judged me last night!
 >
->**June:** It knows things Scotty. Cold things.
+>**JUNE:** It knows things Scotty. Cold things.
 >
->**Scotty:** No, no it doesn't.
+>**SCOTTY:** No, no it doesn't.
 
-### Scotty's Throat
+### Scotty's Humming
 
-**Recording:** [THE FINALS - Lore Channel](https://discord.com/channels/1008696016318513243/1011929497139953744/1407394267361448157)
+>**SCOTTY:** `[humming]`
+>
+>**JUNE:** Scotty, stop!
+>
+>**SCOTTY:** Oh! Sorry! `[clears throat]` Okay!
 
->**Scotty:** `[coughing and clearing throat]`
+### I'm a Little Teapot
+
+>**JUNE:** I'm a little teapot, here's my stout!
 >
->**June:** `[humming]`
+>**SCOTTY:** June!
 >
->**Scotty:** Alright! Let's do this!
+>**JUNE:** Um, yes?
+>
+>**SCOTTY:** We're soon on! Get ready!

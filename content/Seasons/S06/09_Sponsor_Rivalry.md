@@ -19,30 +19,30 @@ draft: false
 
 >`[door opens and slams]`
 >
->**June:** Well, that's the third door she slammed this week.
+>**JUNE:** Well, that's the third door she slammed this week.
 >
->**Scotty:** She's been trying to keep HydraQ out of the show forever. And now they're the official sponsor for the upcoming season.
+>**SCOTTY:** She's been trying to keep HydraQ out of the show forever. And now they're the official sponsor for the upcoming season.
 >
->**June:** A little rivalry is always good business. And not matter how many doors Sofia slams, Marcel's not changing his mind.
+>**JUNE:** A little rivalry is always good business. And not matter how many doors Sofia slams, Marcel's not changing his mind.
 >
->**Scotty:** Yeah, but no roll out, no announcement. And production said that HydraQ material and promo assets have just vanished.
+>**SCOTTY:** Yeah, but no roll out, no announcement. And production said that HydraQ material and promo assets have just vanished.
 
 ![[S06_Sponsor_Rivalry_02.png]]
 
->**June:** What do you mean vanished?
+>**JUNE:** What do you mean vanished?
 >
->**Scotty:** The files, the campaign rollout, everything is gone! Ten million multibucks says it's CNS. Something brews on the horizon, remember?
+>**SCOTTY:** The files, the campaign rollout, everything is gone! Ten million multibucks says it's CNS. Something brews on the horizon, remember?
 >
->**June:** This again?
+>**JUNE:** This again?
 >
->**Scotty:** Yes, this again! We still don't have a sponsor for the next season. Tell me I'm wrong.
+>**SCOTTY:** Yes, this again! We still don't have a sponsor for the next season. Tell me I'm wrong.
 
 ![[S06_Sponsor_Rivalry_03.png]]
 
 >`[door opens]`
 >
->**Marcel:** Sofia's been handled. The sponsor lineup isn't changing. Now get back to work you two! And Scotty...
+>**MARCEL:** Sofia's been handled. The sponsor lineup isn't changing. Now get back to work you two! And Scotty...
 >
->**Scotty:** Sir!
+>**SCOTTY:** Sir!
 >
->**Marcel:** Lay off the OSPUZE. This place reeks.
+>**MARCEL:** Lay off the OSPUZE. This place reeks.

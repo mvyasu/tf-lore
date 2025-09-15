@@ -21,19 +21,19 @@ At this point, the video reverses and shows the following clip:
 
 ![[S05_Trailer_04.png]]
 
->**Announcer:** It's time for the next stage!
+>**ANNOUNCER:** It's time for the next stage!
 
 ![[S05_Trailer_05.png]]
 ![[S05_Trailer_06.png]]
 
->**Announcer:** Here we go!
+>**ANNOUNCER:** Here we go!
 
 Various clips from previous seasons are shown.
 
 ![[S05_Trailer_07.png]]
 ![[S05_Trailer_08.png]]
 
->**Dissun Driver:** Power is Power.
+>**DISSUN DRIVER:** Power is Power.
 
 ![[S05_Trailer_09.png]]![[S05_Trailer_10.png]]
 ![[S05_Trailer_11.png]]

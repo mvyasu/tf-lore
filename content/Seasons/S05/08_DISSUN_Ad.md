@@ -16,7 +16,7 @@ Redstream fuel is pumped into a vehicle at a fuel pump.
 
 ![[S05_Dissun_Ad_03.png]]
 
->**Dissun Driver:** We are glad to do the dirty work. Power is power and you want it.
+>**DISSUN DRIVER:** We are glad to do the dirty work. Power is power and you want it.
 
 ![[S05_Dissun_Ad_04.png]]![[S05_Dissun_Ad_05.png]]
 ![[S05_Dissun_Ad_06.png]]![[S05_Dissun_Ad_07.png]]

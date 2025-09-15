@@ -18,7 +18,7 @@ This is the first time that CNS has been front and center since Season 2 of THE 
 
 ![[S05_TDM_01.png]]
 
->**Scotty:** Welcome to THE FINALS, the most– `[glitch noises]`
+>**SCOTTY:** Welcome to THE FINALS, the most– `[glitch noises]`
 
 ![[S05_TDM_03.png]]
 ![[S05_TDM_02.png]]
@@ -85,15 +85,15 @@ team2_win
 ![[S05_TDM_05.png]]
 ![[S05_TDM_10.png]]
 
->**Scotty:** Aw come on! These guys again?
+>**SCOTTY:** Aw come on! These guys again?
 >
->**June:** Dear VAIIYA, are you seeing this?
+>**JUNE:** Dear VAIIYA, are you seeing this?
 
 ![[S05_TDM_06.png]]
 ![[S05_TDM_09.png]]
 
 ![[S05_TDM_07.png]]![[S05_TDM_08.png]]
 
->**June:** Well I guess we should get ready for Team Deathmatch!
+>**JUNE:** Well I guess we should get ready for Team Deathmatch!
 
 ![[S05_TDM_11.png]]

@@ -12,16 +12,16 @@ draft: false
 
 ![[S04_ENGIMO_Ad_01.png]]
 
->**Narrator:** We know you feel alone, but trust us, you're really not alone.
+>**NARRATOR:** We know you feel alone, but trust us, you're really not alone.
 
 ![[S04_ENGIMO_Ad_02.png]]
 
->**Narrator:** Let ENGIMO bring the world a little closer, one element at a time.
+>**NARRATOR:** Let ENGIMO bring the world a little closer, one element at a time.
 
 ![[S04_ENGIMO_Ad_03.png]]
 ![[S04_ENGIMO_Ad_04.png]]
 
->**Narrator:** Breeze through and sign out completely straightforward user agreement about data sharing and join our global community of friends.
+>**NARRATOR:** Breeze through and sign out completely straightforward user agreement about data sharing and join our global community of friends.
 
 ![[S04_ENGIMO_Ad_05.png]]
 

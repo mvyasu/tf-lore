@@ -15,15 +15,15 @@ draft: false
 
 ![[S02_Trailer_01_Monaco.png]]
 
->**Scotty:** The clock is counting down and The Retros need to make a move to avoid getting knocked out!
+>**SCOTTY:** The clock is counting down and The Retros need to make a move to avoid getting knocked out!
 >
->**June:** Indeed! The Socialites are defending har– `[distortion effects]` and–
+>**JUNE:** Indeed! The Socialites are defending har– `[distortion effects]` and–
 
 ![[S02_Trailer_02_Glitches.png]]
 
->**June:** Are you messing with the stre–
+>**JUNE:** Are you messing with the stre–
 >
->**Scotty:** There seems to be–
+>**SCOTTY:** There seems to be–
 
 ![[S02_Trailer_03_Are_You_Ready.png]]
 
@@ -53,7 +53,7 @@ Afterwards, three contestants load into the new arena for Season 2, SYS$HORIZON.
 
 ![[S02_Trailer_14_THE_FINALS.png]]
 
->**Scotty:** Apologies, we seem to be having technical difficulties. But one thing's for certain–
+>**SCOTTY:** Apologies, we seem to be having technical difficulties. But one thing's for certain–
 >
 >**Ariad:** It will be fun.
 

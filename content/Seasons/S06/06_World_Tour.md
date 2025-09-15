@@ -27,22 +27,22 @@ draft: false
 **Modifiers:**
 - Elimination reward now varies from weapon or gadget, based on how risky it is
 
->**Scotty:** The ALFA ACTA Tour continues folks in our Risk & Reward event! Eliminations earn different payouts based on the weapon or gadget used!
+>**SCOTTY:** The ALFA ACTA Tour continues folks in our Risk & Reward event! Eliminations earn different payouts based on the weapon or gadget used!
 >
->**June:** Go for the big money plays or play it safe! It's all about how much risk you're willing to take!
+>**JUNE:** Go for the big money plays or play it safe! It's all about how much risk you're willing to take!
 >
->**Scotty:** So pick your loadout wisely and cash in, because in this event, fortune favors the bold.
+>**SCOTTY:** So pick your loadout wisely and cash in, because in this event, fortune favors the bold.
 ### WEEK 3 - HEAD HUNTER
 
 **Arenas:** Monaco, Seoul, Skyway Stadium, Fortune Stadium
 **Modifiers:**
 - Bounty placed on each team's top eliminator.
 
->**Scotty:** Before ALFA ACTA hands things over to ENGIMO, they've got one last surprise for us.
+>**SCOTTY:** Before ALFA ACTA hands things over to ENGIMO, they've got one last surprise for us.
 >
->**June:** In our Head Hunter event, the top eliminator on each team gets a bounty. The more they eliminate, the bigger the prize.
+>**JUNE:** In our Head Hunter event, the top eliminator on each team gets a bounty. The more they eliminate, the bigger the prize.
 >
->**Scotty:** Mark your targets and watch your backs contestants! Let's get hunting!
+>**SCOTTY:** Mark your targets and watch your backs contestants! Let's get hunting!
 
 ![[S06_World_Tour_02_ENGIMO_Open.png]]
 # ENGIMO OPEN
@@ -57,39 +57,39 @@ draft: false
 **Modifiers:**
 - Eggcelent Festivities.
 
->**Narrator:** ENGIMO
+>**NARRATOR:** ENGIMO
 >
->**Scotty:** After ALFA ACTA's debut in the arena, it's time for ENGIMO to shake things up!
+>**SCOTTY:** After ALFA ACTA's debut in the arena, it's time for ENGIMO to shake things up!
 >
->**June:** Pure competition, perfectly broadcast, perfectly connected, just the way ENGIMO wants you to see it.
+>**JUNE:** Pure competition, perfectly broadcast, perfectly connected, just the way ENGIMO wants you to see it.
 >
->**Scotty:** Ready or not contestants, here we go!
+>**SCOTTY:** Ready or not contestants, here we go!
 ### WEEK 2 - PROTOCOL OVERDRIVE
 
 **Arenas:** SYS$HORIZON, Kyoto, Fortune Stadium, Las Vegas Stadium
 **Modifiers:** Consecutive game show events
 - **Meteor Showers** and **Alien Invasions**
 
->**Narrator:** ENGIMO
+>**NARRATOR:** ENGIMO
 >
->**Scotty:** It's time for our incredible sponsor ENGIMO to redefine chaos as we know it!
+>**SCOTTY:** It's time for our incredible sponsor ENGIMO to redefine chaos as we know it!
 >
->**June:** Right on the money Scotty! ENGIMO just cranked up the gameshow event madness! Now they're running back-to-back!
+>**JUNE:** Right on the money Scotty! ENGIMO just cranked up the gameshow event madness! Now they're running back-to-back!
 >
->**Scotty:** No breaks, no breathers. Hope you're ready for non-stop mayhem contestants!
+>**SCOTTY:** No breaks, no breathers. Hope you're ready for non-stop mayhem contestants!
 ### WEEK 3 - STRIKE A POSE 2.0
 
 **Arenas:** Las Vegas Stadium, Bernal, Fortune Stadium, Monaco
 **Modifiers:**
 - Emote near a cashout to earn cash.
 
->**Narrator:** ENGIMO
+>**NARRATOR:** ENGIMO
 >
->**June:** This week ENGIMO is bringing back our boogiest challenge yet! Prepare to hit the arena and the dance floor!
+>**JUNE:** This week ENGIMO is bringing back our boogiest challenge yet! Prepare to hit the arena and the dance floor!
 >
->**Scotty:** Drop your best emotes near a cashout your team starts, steals, or secures, and watch that cash pile up!
+>**SCOTTY:** Drop your best emotes near a cashout your team starts, steals, or secures, and watch that cash pile up!
 >
->**June:** Let's get this party started! Pop it, drop it, and make it rain contestants!
+>**JUNE:** Let's get this party started! Pop it, drop it, and make it rain contestants!
 
 ![[S06_World_Tour_03_OSPUZE_Expo.png]]
 # OSPUZE EXPO
@@ -103,32 +103,32 @@ draft: false
 **Arenas:** SYS$HORIZON, Kyoto, Monaco, Skyway Stadium
 **Modifiers:** None
 
->**Scotty:** Let's go! Let me tell you gang, we've got a really doozy of a week for you in the World Tour!
+>**SCOTTY:** Let's go! Let me tell you gang, we've got a really doozy of a week for you in the World Tour!
 >
->**June:** Um, Scotty. Are you alright?
+>**JUNE:** Um, Scotty. Are you alright?
 >
->**Scotty:** Never better! OSPUZE's time to take over the show and now that I've tasted that new Pro Juice flavor, I couldn't be more stoked!
+>**SCOTTY:** Never better! OSPUZE's time to take over the show and now that I've tasted that new Pro Juice flavor, I couldn't be more stoked!
 >
 >`[can cracked open]`
 >
->**June:** Okay, let's get started before Scotty gets too excited!
+>**JUNE:** Okay, let's get started before Scotty gets too excited!
 >
->**Scotty:** Yeah!
+>**SCOTTY:** Yeah!
 ### WEEK 2 - LAST DROP
 
 **Arenas:** Fortune Stadium, Seoul, Las Vegas Stadium, SYS$HORIZON
 **Modifiers:**
 - Eliminated players drop bombs.
 
->**Scotty:** Folks, this week the chaos won't stop till the last drop!
+>**SCOTTY:** Folks, this week the chaos won't stop till the last drop!
 >
->**June:** When contestants get eliminated, they spill an explosive surprise!
+>**JUNE:** When contestants get eliminated, they spill an explosive surprise!
 >
->**Scotty:** Pick them up and throw them at your opponents. Just make sure you're not holding one when the music stops.
+>**SCOTTY:** Pick them up and throw them at your opponents. Just make sure you're not holding one when the music stops.
 >
->**June:** I guess volatile comebacks can happen in seconds!
+>**JUNE:** I guess volatile comebacks can happen in seconds!
 >
->**Scotty:** Hooya! Let's get cooking!
+>**SCOTTY:** Hooya! Let's get cooking!
 ### WEEK 3 - DOUBLE DOSE
 
 **Arenas:** Monaco, Kyoto, Skyway Stadium, Bernal
@@ -137,13 +137,13 @@ draft: false
 - **Mega Damage** and **Drop Bombs**
 - **Orbital Laser** and **Head Hunter**
 
->**Scotty:** Well OSPUZE isn't messing around. This week they're mixing flavors for double the fun!
+>**SCOTTY:** Well OSPUZE isn't messing around. This week they're mixing flavors for double the fun!
 >
->**June:** Hope you're ready contestants! We're running two gameshow events simultaneously.
+>**JUNE:** Hope you're ready contestants! We're running two gameshow events simultaneously.
 >
->**Scotty:** Be ready to expect the unexpected and adapt! Things are about to get seriously shaken in the arena!
+>**SCOTTY:** Be ready to expect the unexpected and adapt! Things are about to get seriously shaken in the arena!
 >
->**June:** And stirred too!
+>**JUNE:** And stirred too!
 
 ![[S06_World_Tour_04_Sponsor_Showdown.png]]
 # SPONSOR SHOWDOWN
@@ -153,20 +153,20 @@ draft: false
 **Arenas:** Bernal, Fortune Stadium, Kyoto, SYS$HORIZON, Las Vegas Stadium, Skyway Stadium, Seoul, Monaco
 **Modifiers:** None
 
->**Scotty:** It's Sponsor Showdown time!
+>**SCOTTY:** It's Sponsor Showdown time!
 >
->**June:** After ALFA ACTA's debut and OSPUZE's Tiger Juice takeover in the arena–
+>**JUNE:** After ALFA ACTA's debut and OSPUZE's Tiger Juice takeover in the arena–
 >
->**Scotty:** 40% real tiger folks!
+>**SCOTTY:** 40% real tiger folks!
 >
->**June:** Um, anyways, get ready for three weeks of pure mayhem to claim the throne!
+>**JUNE:** Um, anyways, get ready for three weeks of pure mayhem to claim the throne!
 >
->**Scotty:** And remember, every match played and every fan you earn will score championship points for your sponsor.
+>**SCOTTY:** And remember, every match played and every fan you earn will score championship points for your sponsor.
 >
->**June:** Give it everything you've got contestants!
+>**JUNE:** Give it everything you've got contestants!
 >
->**Scotty:** Yes! Pop. Pour. Perform.
+>**SCOTTY:** Yes! Pop. Pour. Perform.
 >
 >`[can cracks open]`
 >
->**June:** Scotty!
+>**JUNE:** Scotty!

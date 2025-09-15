@@ -19,12 +19,12 @@ draft: false
 ![[S05_Alfa_Acta_Ad_03_Minigun_Close.png]]
 ![[S05_Alfa_Acta_Ad_04_Call_Now.png]]
 
->**Narrator:** Now that's clever! Folks, you have the deal of a lifetime in front of you! The M.134 Minigun with the Carry Harness, the Rate Reducer, the Geofence System, and the advanced Olfactory Targeting System. If you call now, we'll throw all of them in for free!
+>**NARRATOR:** Now that's clever! Folks, you have the deal of a lifetime in front of you! The M.134 Minigun with the Carry Harness, the Rate Reducer, the Geofence System, and the advanced Olfactory Targeting System. If you call now, we'll throw all of them in for free!
 
 ![[S05_Alfa_Acta_Ad_05_Welcome_Mat.png]]
 ![[S05_Alfa_Acta_Ad_06_Recoiless_Blade.png]]
 
->**Narrator:** Plus, the Welcoming Mat and the Recoiless Blade! Folks, this doesn't happen often, but I really feel this is a too good of a deal to sit out! Now let's pass the live feed over to Hector so we can see this bad boy in action!
+>**NARRATOR:** Plus, the Welcoming Mat and the Recoiless Blade! Folks, this doesn't happen often, but I really feel this is a too good of a deal to sit out! Now let's pass the live feed over to Hector so we can see this bad boy in action!
 
 ![[S05_Alfa_Acta_Ad_07_Hector.png]]
 ![[S05_Alfa_Acta_Ad_08_Decimate.png]]![[S05_Alfa_Acta_Ad_09_Minigun_Showcase.png]]
