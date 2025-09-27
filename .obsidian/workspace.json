@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Seasons/S08/06_OSPUZE_Site.md",
+                "file": "content/Seasons/S06/05_Las_Vegas_Stadium_Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_OSPUZE_Site"
+              "title": "05_Las_Vegas_Stadium_Analysis"
             }
           }
         ]
@@ -171,9 +171,9 @@
   },
   "active": "e83eefb122e01938",
   "lastOpenFiles": [
-    "content/Seasons/S08/05_Cosmetics.md",
-    "content/Seasons/S08/06_OSPUZE_Site.md",
     "content/Seasons/S05/05_Bernal_Analysis.md",
+    "content/Seasons/S08/06_OSPUZE_Site.md",
+    "content/Seasons/S08/05_Cosmetics.md",
     "S05_Bernal_Analysis_01.bak.png",
     "S05_Bernal_Analysis_01 (Small).png",
     "content/Seasons/S05/04_Sponorships.md",
