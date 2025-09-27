@@ -1,7 +1,7 @@
 ---
 title: Monaco Analysis
 description: A small analysis of all the elements on Monaco that can be related to lore.
-date: 2023-06-14T00:00:00
+date: 2023-03-07T00:00:00
 tags:
   - "#map"
   - monaco
@@ -11,8 +11,7 @@ tags:
   - sofia
 draft: false
 ---
-![[S00_Monaco_Analysis_01.png]]
-
+![[content/Seasons/S00/Media/S00_Monaco_Analysis_01.png]]
 # S LIES
 
 A red-colored lore message from CNS can be found at Construction that says "S Lies" in a pixel-like font. It has been in-game since the closed beta.

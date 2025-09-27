@@ -6,7 +6,7 @@ tags:
   - soundtrack
   - music
   - audio
-draft: true
+draft: false
 ---
 ![[S04_Soundtrack_01.png]]
 # SOUNDTRACK
@@ -75,34 +75,29 @@ draft: true
 **Bandcamp Link:** https://embarkstudios.bandcamp.com/track/absorbe
 ### ABSORBE
 
-**Original:**
 >\[Verse]
->Absorbe ce que c’est, monde, monde, misérable et fortuné
->Absorbe ce que tu désir devenir, c’est ce que tu es
+>Absorbe ce que c'est, monde, monde, misérable et fortuné
+>Absorbe ce que tu désir devenir, c'est ce que tu es
 >Alors, absorbe, absorbe
 >
 >\[Instrumental Break]
 >
 >\[Chorus]
->Absorbe ce que c’est, monde, monde, misérable et fortuné
->Absorbe ce que tu désir devenir, c’est ce que tu es
+>Absorbe ce que c'est, monde, monde, misérable et fortuné
+>Absorbe ce que tu désir devenir, c'est ce que tu es
 >Alors, absorbe, absorbe
 >
 >\[Instrumental Break]
 >
 >\[Pre-Chorus]
 >La vie est tissée, devoir
->??? la douleur ??? absorbe ???
+>??? la douleur vient au refrain, absorbe ???
 >Pour chasser la flamme ephémère
 >
 >\[Chorus]
->Absorbе ce que c’est, mondе, monde, misérable et fortuné
->Absorbe ce que tu désir devenir, c’est ce que tu es
+>Absorbе ce que c'est, mondе, monde, misérable et fortuné
+>Absorbe ce que tu désir devenir, c'est ce que tu es
 >Alors, absorbe, absorbe
->Absorbe ce que c’est, monde, monde, misérable et fortuné
->Absorbe ce que tu désir devenir, c’est ce que tu es
+>Absorbe ce que c'est, monde, monde, misérable et fortuné
+>Absorbe ce que tu désir devenir, c'est ce que tu es
 >Alors, absorbe, absorbe
-
-**Translated:**
->  \[Verse]
->  Absurd, what it is Crazy world (For) miserable and fortunate Absurd What you desire to become, is what you are So, absurd, absurd

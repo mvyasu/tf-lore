@@ -8,5 +8,17 @@ tags:
   - iseul-t
   - dissun
   - vaiiya
-draft: true
+draft: false
 ---
+# DISSUN Sector
+
+![[S05_Bernal_Analysis_01.png]]
+## DISSUN Billboard
+
+>PRODUCTION N/O 0075 00057 5625 0007708928
+>EDITION 2000
+>
+>**WITHOUT US, YOUR FAVOURITE WORLD WOULDN'T EXIST**
+>
+>MACHINE TRINITY (マシントリニティ)
+>CAUTION HIGH VOLTAGE (高電圧注意)

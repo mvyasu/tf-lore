@@ -20,13 +20,23 @@ draft: false
 **Modifiers:** None
 ### WEEK 2 - STANDARD CASHOUT 
 
-**Arenas:** TBD
+**Arenas:** Bernal, Fortune Stadium, Kyoto, SYS$HORIZON, Las Vegas, Las Vegas Stadium, Skyway Stadium, Seoul, Monaco, NOZOMI/CITADEL
 **Modifiers:** None
 ### WEEK 3 - VERTIGO!
 
-**Arenas:** TBD
+**Video Link:** https://www.youtube.com/watch?v=3OsCrrc0pzs
+
+**Arenas:** Bernal, Fortune Stadium, Kyoto, SYS$HORIZON, Las Vegas, Las Vegas Stadium, Skyway Stadium, Seoul, Monaco, NOZOMI/CITADEL
 **Modifiers:**
-- TBD
+- Contestants can double-jump, with enhanced lift from the second jump.
+
+>**JUNE:** This week the World Tour gets a vertical twist, courtesy of Trentila!
+>
+>**SCOTTY:** Boosted jumps? Now we're talking!
+>
+>**JUNE:** Welcome to Vertigo! Contestants can jump higher than ever for new attack routes and escapes! Just remember, the higher you go . . .
+>
+>**SCOTTY:** . . . the harder they'll try to knock you down!
 
 \[image]
 # HOLTOW CUP

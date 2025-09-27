@@ -1,32 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>THE FINALS LORE</title>
+      <title>THE FINALS Lore</title>
       <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on THE FINALS LORE</description>
+      <description>Last 10 notes on THE FINALS Lore</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Let Them Squawk</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S07/08_Let_Them_Squawk</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S07/08_Let_Them_Squawk</guid>
-    <description><![CDATA[ A description of what happens during the second lore vignette from Season 7 of THE FINALS called Let Them Squawk. ]]></description>
-    <pubDate>Sat, 06 Sep 2025 07:00:00 GMT</pubDate>
+    <title>Season 8 Launch Trailer</title>
+    <link>https://quartz.jzhao.xyz/Seasons/S08/01_Launch_Trailer</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S08/01_Launch_Trailer</guid>
+    <description><![CDATA[ A description of what happens during the Launch Trailer for Season 8 of THE FINALS. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 07:00:00 GMT</pubDate>
+  </item><item>
+    <title>Season 8 Patch Notes</title>
+    <link>https://quartz.jzhao.xyz/Seasons/S08/02_Patch_Notes</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S08/02_Patch_Notes</guid>
+    <description><![CDATA[ A dump of potential lore-related copy from the Season 8 patch notes. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 07:00:00 GMT</pubDate>
+  </item><item>
+    <title>Season 8 Sponsorships</title>
+    <link>https://quartz.jzhao.xyz/Seasons/S08/03_Sponorships</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S08/03_Sponorships</guid>
+    <description><![CDATA[ A dump of potential lore from Season 8's sponsorships. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 07:00:00 GMT</pubDate>
+  </item><item>
+    <title>Season 8 World Tour</title>
+    <link>https://quartz.jzhao.xyz/Seasons/S08/04_World_Tour</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S08/04_World_Tour</guid>
+    <description><![CDATA[ A post going over all the World Tour stops of Season 8 of THE FINALS. ]]></description>
+    <pubDate>Wed, 10 Sep 2025 07:00:00 GMT</pubDate>
   </item><item>
     <title>The Meatspace</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description><![CDATA[  THE FINALS The World THE FINALS is the greatest virtual game show on the planet, with a large, global fan base. ]]></description>
-    <pubDate>Thu, 04 Sep 2025 03:40:18 GMT</pubDate>
+    <pubDate>Sun, 07 Sep 2025 03:07:26 GMT</pubDate>
+  </item><item>
+    <title>06_Fortune_Stadium_Analysis</title>
+    <link>https://quartz.jzhao.xyz/Seasons/S04/06_Fortune_Stadium_Analysis</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S04/06_Fortune_Stadium_Analysis</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 06 Sep 2025 22:57:47 GMT</pubDate>
+  </item><item>
+    <title>Let Them Squawk</title>
+    <link>https://quartz.jzhao.xyz/Seasons/S07/10_Let_Them_Squawk</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S07/10_Let_Them_Squawk</guid>
+    <description><![CDATA[ A description of what happens during the second lore vignette from Season 7 of THE FINALS called Let Them Squawk. ]]></description>
+    <pubDate>Sat, 06 Sep 2025 07:00:00 GMT</pubDate>
   </item><item>
     <title>Three Perfect Frogs</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S07/07_Three_Perfect_Frogs</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S07/07_Three_Perfect_Frogs</guid>
+    <link>https://quartz.jzhao.xyz/Seasons/S07/09_Three_Perfect_Frogs</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S07/09_Three_Perfect_Frogs</guid>
     <description><![CDATA[ A description of what happens during the first lore vignette for Season 7 of THE FINALS called Three Perfect Frogs. ]]></description>
     <pubDate>Thu, 21 Aug 2025 07:00:00 GMT</pubDate>
   </item><item>
     <title>Preshow Dialogue</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S07/06_Preshow_Dialogue</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S07/06_Preshow_Dialogue</guid>
+    <link>https://quartz.jzhao.xyz/Seasons/S07/08_Preshow_Dialogue</link>
+    <guid>https://quartz.jzhao.xyz/Seasons/S07/08_Preshow_Dialogue</guid>
     <description><![CDATA[ A list of conversations that can happen before a round starts. ]]></description>
     <pubDate>Thu, 24 Jul 2025 07:00:00 GMT</pubDate>
   </item><item>
@@ -35,36 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Seasons/S07/04_Clarity_Unity_Progress</guid>
     <description><![CDATA[ A description of what happens during the VAIIYA ad known as Clarity. Unity. Progress. ]]></description>
     <pubDate>Sun, 15 Jun 2025 07:00:00 GMT</pubDate>
-  </item><item>
-    <title>Season 7 Launch Trailer</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S07/01_Launch_Trailer</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S07/01_Launch_Trailer</guid>
-    <description><![CDATA[ A description of what happens during the Launch Trailer for Season 7 of THE FINALS. ]]></description>
-    <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
-  </item><item>
-    <title>Season 7 Sponsor Fine Print</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S07/03_Sponor_Fine_Print</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S07/03_Sponor_Fine_Print</guid>
-    <description><![CDATA[ A dump of the fine print from Season 7's sponsors. ]]></description>
-    <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
-  </item><item>
-    <title>Nozomi/Citadel Analysis</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S07/05_Nozomi_Citadel_Analysis</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S07/05_Nozomi_Citadel_Analysis</guid>
-    <description><![CDATA[ A small analysis of all the elements on Nozomi/Citadel that can be related to lore. ]]></description>
-    <pubDate>Thu, 12 Jun 2025 07:00:00 GMT</pubDate>
-  </item><item>
-    <title>ENGIMO Reality Shield Ad</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S06/11_Reality_Shield_Ad</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S06/11_Reality_Shield_Ad</guid>
-    <description><![CDATA[ A description of what happens during the ad for ENGIMO's Reality Shield. ]]></description>
-    <pubDate>Wed, 11 Jun 2025 07:00:00 GMT</pubDate>
-  </item><item>
-    <title>Season 6 Reddit Posts</title>
-    <link>https://quartz.jzhao.xyz/Seasons/S06/10_CNS_Reddit_Posts</link>
-    <guid>https://quartz.jzhao.xyz/Seasons/S06/10_CNS_Reddit_Posts</guid>
-    <description><![CDATA[ A list of reddit posts made on the r/cns subreddit by user @4RCU5 during Season 6 of THE FINALS. ]]></description>
-    <pubDate>Mon, 09 Jun 2025 07:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
