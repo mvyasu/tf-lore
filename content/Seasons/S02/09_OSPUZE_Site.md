@@ -8,6 +8,11 @@ tags:
 draft: false
 ---
 **Link:** https://ospuze.com
+
+## embed
+#### OSPUZE Pro Juice
+
+The Future belongs to OSPUZE. Who. Needs. Water?
 ## ospuze.com
 #### OSPUZE Pro Juice
 

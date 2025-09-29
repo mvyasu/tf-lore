@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Seasons/S06/05_Las_Vegas_Stadium_Analysis.md",
+                "file": "content/Seasons/S02/03_SYS$HORIZON_Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05_Las_Vegas_Stadium_Analysis"
+              "title": "03_SYS$HORIZON_Analysis"
             }
           }
         ]
@@ -171,9 +171,14 @@
   },
   "active": "e83eefb122e01938",
   "lastOpenFiles": [
-    "content/Seasons/S05/05_Bernal_Analysis.md",
     "content/Seasons/S08/06_OSPUZE_Site.md",
     "content/Seasons/S08/05_Cosmetics.md",
+    "content/Seasons/S04/02_Patch_Notes.md",
+    "content/Seasons/S04/01_Trailer.md",
+    "content/Seasons/S04/03_Intro_Vignette.md",
+    "content/Seasons/S02/09_OSPUZE_Site.md",
+    "content/Seasons/S06/05_Las_Vegas_Stadium_Analysis.md",
+    "content/Seasons/S05/05_Bernal_Analysis.md",
     "S05_Bernal_Analysis_01.bak.png",
     "S05_Bernal_Analysis_01 (Small).png",
     "content/Seasons/S05/04_Sponorships.md",
@@ -182,10 +187,8 @@
     "content/Seasons/S08/04_World_Tour.md",
     "content/Seasons/S02/03_SYS$HORIZON_Analysis.md",
     "content/Seasons/S05/00_Media/S05_Bernal_Analysis_01.png",
-    "content/Seasons/S04/02_Patch_Notes.md",
     "content/Seasons/S04/05_MultiCo_Subsidiaries.md",
     "content/Seasons/S04/06_Fortune_Stadium_Analysis.md",
-    "content/Seasons/S04/03_Intro_Vignette.md",
     "content/Seasons/S02/06_Lore_Vignette_01.md",
     "content/Seasons/S03/03_Kyoto_Analysis.md",
     "content/Seasons/S03/04_World_Tour.md",
@@ -193,12 +196,10 @@
     "content/Seasons/S07/02_Patch_Notes.md",
     "content/Seasons/S07/08_Clarity_Unity_Progress.md",
     "content/Seasons/S07/11_Let_Them_Squawk.md",
-    "content/Seasons/S02/09_OSPUZE_Site.md",
     "content/Seasons/S02/05_CNS_Reddit_Posts.md",
     "content/Seasons/S02/01_Trailer.md",
     "content/Seasons/S01/01_Launch_Trailer.md",
     "content/Seasons/S01/02_Las_Vegas_Analysis.md",
-    "content/Seasons/S01/03_MuCoDOS.md",
     "Untitled.canvas",
     "content/Seasons/S08/00_Media/S08_OSPUZE_Site_01.png",
     "content/Seasons/S08/00_Media/S08_OSPUZE_Site_01 (Small).png",

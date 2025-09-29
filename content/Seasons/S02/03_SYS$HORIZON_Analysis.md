@@ -5,7 +5,7 @@ date: 2024-03-14T00:00:00
 tags:
   - map
   - syshorizon
-draft: true
+draft: false
 ---
 ![[S02_SYS$HORIZON_Analysis_01.png]]
 # VAIIYA Grid

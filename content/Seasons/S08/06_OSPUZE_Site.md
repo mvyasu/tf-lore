@@ -11,6 +11,6 @@ draft: false
 ## ospuze.com
 #### OSPUZE Pro Juice
 
-The [OPSUZE website from Season 2](content/Seasons/S02/09_OSPUZE_Site) was completely wiped and received a new homepage that was themed around Sour Core, the new flavor of OSPUZE.
+The [OPSUZE website from Season 2](content/Seasons/S02/09_OSPUZE_Site) was completely wiped and received a new homepage that was themed around Sour Core, a new flavor of OSPUZE.
 
 ![[S08_OSPUZE_Site_01.png]]
