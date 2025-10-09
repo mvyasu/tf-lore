@@ -41,7 +41,7 @@ WE ARE CNS
 ACCEPT NO IMITATION
 ```
 
-The portion that reads `"#*/0/!` is actually an ASCII rabbit. In other words, that line is supposed to read `FOLLOW THE RABBIT`. It is presumable that CNS is referring to the [white rabbits found on Seoul](02_Seoul_Analysis).
+The portion that reads `"#*/0/!` is actually an ASCII rabbit. In other words, that line is supposed to read `FOLLOW THE RABBIT`. It is presumable that CNS is referring to the [white rabbits found on Seoul](03_Seoul_Analysis.md).
 
 ![[S07_Cosmetics_02.png]]
 #### SCHEDULE 8.12C (Spray)

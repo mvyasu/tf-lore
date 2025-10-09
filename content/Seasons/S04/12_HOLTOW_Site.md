@@ -8,20 +8,20 @@ tags:
 draft: false
 ---
 **Link:** https://holtow.com
-## holtow.com
+# holtow.com
 #### HOLTOW
 
 The home page for the site changed from the [Season 2 Teaser Gif](05_HOLTOW_Site.md) to a picture of a HOLTOW MEGA insurance CARD. The image has a film grain effect over it.
 
 ![[S04_HOLTOW_Site_01.png]]
-## /suninsurance
+# /suninsurance
 #### SunInsurance — HOLTOW
 
 ![[S04_HOLTOW_Site_02.png]]
 
 The video shown here is the same exact video as the [Sun Insurance Ad](https://www.youtube.com/watch?v=kB9xveghxe4) seen in-game at the end of last season in the lore vignette.
 
-## /general-6
+# /general-6
 #### general-6 — HOLTOW
 
 **DISCLAIMER:** For a small period of time, a page was available containing some unseen HOLTOW-related text. The page was removed pretty quick and it is unknown if the information on it is accurate or relevant.

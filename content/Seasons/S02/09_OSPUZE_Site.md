@@ -9,11 +9,16 @@ draft: false
 ---
 **Link:** https://ospuze.com
 
-## embed
+The OSPUZE website was the first sponsor-owned website to go live. A month after it was up, Robert Runesson made a comment about OSPUZE when the website was brought up in an off-topic discussion:
+
+>**LUDONOPE:** OSPUZE website is questionable but it's OSPUZE after all, they're greedy and they don't care about anyone (even their customers) 🤔
+>
+>**ROBERT RUNESSON:** YES they are greedy… well at least the 2024 version of the company… their current CEO S… oops almost leaked some lore here…
+# embed
 #### OSPUZE Pro Juice
 
 The Future belongs to OSPUZE. Who. Needs. Water?
-## ospuze.com
+# ospuze.com
 #### OSPUZE Pro Juice
 
 ![[S02_OSPUZE_Site_01.png]]
@@ -51,7 +56,7 @@ Demand is STRONG! Don’t get left behind.
 Sign up now to get your first crate of OSPUZE delivered to your door by our industrial bro-drones.
 
  [CONTACT US](https://www.ospuze.com/contact)
-## /about
+# /about
 #### About Us — OSPUZE Pro Juice
 
 ![[S02_OSPUZE_Site_05.png]]
@@ -66,14 +71,14 @@ While we work on our ability to mass-produce, you should get ready to mass-consu
 There’s a superior form of hydration in town.
 ##### **WHO. NEEDS. WATER.**
 
-## /losertalk
+# /losertalk
 #### Return Policy — OSPUZE Pro Juice
 
 ![[S02_OSPUZE_Site_06.png]]
 
 It’s okay that you have bad taste.
 We won’t tell anyone!
-## /contact
+# /contact
 #### Buy OSPUZE — OSPUZE Pro Juice
 
 ![[S02_OSPUZE_Site_07.png]]
@@ -81,7 +86,7 @@ We won’t tell anyone!
 #### GET IN TOUCH!
 [contact@ospuze.com](mailto:contact@ospuze.com?subject=I%20LOVE%20OSPUZE%20)
 ##### **POP. POUR. PERFORM.**
-## /404
+# /404
 #### 404 — OSPUZE Pro Juice
 
 ![[S02_OSPUZE_Site_08.png]]

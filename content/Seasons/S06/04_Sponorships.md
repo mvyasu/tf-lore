@@ -1,5 +1,5 @@
 ---
-title: Season 6 Sponsor Fine Print
+title: Season 6 Sponsorships
 description: A dump of potential lore from Season 6's sponsorships.
 date: 2025-03-20T00:00:00
 tags:

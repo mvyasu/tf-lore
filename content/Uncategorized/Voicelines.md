@@ -595,6 +595,7 @@ The stations are still standing, but the attackers aren't.
 - Clear the airspace, I'm coming in heavy!
 
 ## Dede
+
 - The game's changed, I've changed faster!
 - Let's put on a show!
 - Face of the game? You're looking at it!
@@ -606,6 +607,7 @@ The stations are still standing, but the attackers aren't.
 - Experience isn't just an advantage, it's the win condition.
 
 ## The Devourer
+
 - Your output exceeds expectations.
 - Emotion resisted, purpose installed.
 - Your aim seems well calibrated, just like your feelings!
@@ -615,6 +617,7 @@ The stations are still standing, but the attackers aren't.
 - Second hydration break today, luxurious!
 
 ## Sal Scoria
+
 - We. As one.
 - Together, unshaken.
 - Clarity. Unity. Progress.
