@@ -12,7 +12,7 @@ draft: false
 ---
 **Patch Notes Link:** https://www.reachthefinals.com/patchnotes/800
 
-![[Patch_Notes_01.png]]
+![[content/Seasons/S08/00_Media/Patch_Notes_01.png]]
 # HOLTOW 
 ### _Digitally insured, virtually secured._
 
@@ -20,7 +20,7 @@ draft: false
 >
 >**SIGN WITH HOLTOW AND INSURE YOUR VICTORY!**
 
-![[Patch_Notes_02.png]]
+![[content/Seasons/S08/00_Media/Patch_Notes_02.png]]
 # TRENTILA
 ### _Slightly unstable. Shockingly good._
 

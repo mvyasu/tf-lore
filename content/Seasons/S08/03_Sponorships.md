@@ -24,7 +24,7 @@ draft: false
 >**SIGN WITH HOLTOW AND INSURE YOUR VICTORY!**
 ### Fine Print
 
-![[S08_Sponsorships_01_Holtow.png]]
+![[content/Seasons/S08/00_Media/S08_Sponsorships_01_Holtow.png]]
 
 >By agreeing to be sponsored by HOLTOW, you promise to never publicly question the effectiveness of HOLTOW's Sun Insurance policy.
 
@@ -44,7 +44,7 @@ draft: false
 >**SIGN WITH TRANTILLA AND CULTIVATE YOUR TRIUMPH!**
 ### Fine Print
 
-![[S08_Sponsorships_02_Trentila.png]]
+![[content/Seasons/S08/00_Media/S08_Sponsorships_02_Trentila.png]]
 
 >By signing with TRENTILA, you acknowledge that stability is boring and any genetic mutations that result from this partnership are to be publicly referred to as upgrades.
 

@@ -14,8 +14,8 @@ draft: false
 ---
 **Video Link:** https://www.youtube.com/watch?v=wtubUGD2M-4
 
-![[S08_Launch_Trailer_01.png]]
-![[S08_Launch_Trailer_02.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_01.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_02.png]]
 
 >**SCOTTY:** They're pushing for the cashout! But the building's going down wit them!
 >
@@ -23,23 +23,23 @@ draft: false
 >
 >**SCOTTY:** Let's roll that again!
 
-![[S08_Launch_Trailer_03.png]]
-![[S08_Launch_Trailer_04.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_03.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_04.png]]
 
 >**SCOTTY:** Welcome contestants to Season 8! Our reworked arenas are more dynamic than ever!
 
-![[S08_Launch_Trailer_05.png]]
-![[S08_Launch_Trailer_06.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_05.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_06.png]]
 
 >**JUNE:** We've got new weapons, bold new sponsors, and a whole lot more!
 
-![[S08_Launch_Trailer_07.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_07.png]]
 
 >**SCOTTY:** This is Season 8 of THE FINALS!
 >
 >**ANNOUNCER:** It's... game time!
 
-![[S08_Launch_Trailer_08.png]]
-![[S08_Launch_Trailer_09.png]]![[S08_Launch_Trailer_10.png]]
-![[S08_Launch_Trailer_11.png]]
-![[S08_Launch_Trailer_12.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_08.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_09.png]]![[content/Seasons/S08/00_Media/S08_Launch_Trailer_10.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_11.png]]
+![[content/Seasons/S08/00_Media/S08_Launch_Trailer_12.png]]

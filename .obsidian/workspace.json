@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "17543ddc7bbfc124",
+        "id": "ce3eb0a0382933db",
         "type": "tabs",
         "children": [
           {
-            "id": "e83eefb122e01938",
+            "id": "366eceb0d6d93ce5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Seasons/S08/07_Holtow_Ad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "07_Holtow_Ad"
-            }
-          },
-          {
-            "id": "5c3b9289ea5575b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Seasons/S00/01_Sponsor_Pages.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_Sponsor_Pages"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,54 +165,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c3b9289ea5575b7",
+  "active": "abbf5a850ee02e51",
   "lastOpenFiles": [
-    "content/Seasons/S08/07_Holtow_Ad.md",
+    "Untitled.canvas",
+    "Untitled.base",
+    "2026-01-17.md",
+    "content/Seasons/S09/01_Launch_Trailer.md",
+    "content/Seasons/S09/02_Patch_Notes.md",
+    "content/Seasons/S09/03_Sponorships.md",
+    "content/Seasons/S09/04_World_Tour.md",
+    "content/Seasons/S09/05_Cosmetics.md",
+    "content/Seasons/S08/03_Sponorships.md",
     "content/Seasons/S08/02_Patch_Notes.md",
+    "content/Seasons/S06/04_Sponorships.md",
+    "content/Seasons/S06/03_Intro_Vignette.md",
+    "content/Seasons/S06/10_Hydra_Q_Billboards.md",
+    "content/Seasons/S06/08_Close_Quarters_Event.md",
+    "content/Seasons/S06/07_Cosmetics.md",
+    "content/Seasons/S06/06_World_Tour.md",
+    "content/Seasons/S06/05_Las_Vegas_Stadium_Analysis.md",
+    "content/Seasons/S07/03_Sponorships.md",
+    "content/Seasons/S08/07_Holtow_Ad.md",
+    "content/Seasons/S09/06_OSPUZE_Site.md",
+    "content/Seasons/S09/07_Holtow_Ad.md",
+    "content/Seasons/S00/01_Sponsor_Pages.md",
+    "content/Seasons/S09/00_Media/Patch_Notes_01.png",
+    "content/Seasons/S09/00_Media/S08_World_Tour_01_Trentila_Invitational.png",
+    "content/Seasons/S09/00_Media/S08_Sponsorships_02_Trentila.png",
+    "content/Seasons/S09/00_Media/S08_Sponsorships_01_Holtow.png",
+    "content/Seasons/S09/00_Media/S08_OSPUZE_Site_01.png",
+    "content/Seasons/S09/00_Media/S08_Launch_Trailer_12.png",
+    "content/Seasons/S09/00_Media/S08_Launch_Trailer_11.png",
+    "content/Seasons/S09/00_Media/S08_Launch_Trailer_10.png",
+    "content/Seasons/S09/00_Media/S08_Launch_Trailer_09.png",
+    "content/Seasons/S09/00_Media/S08_Launch_Trailer_08.png",
+    "content/Seasons/S09/00_Media",
+    "content/Seasons/S09",
     "content/Seasons/S04/02_Patch_Notes.md",
     "content/Seasons/S04/01_Trailer.md",
     "content/Seasons/S04/13_Lore_Vignette.md",
     "content/Uncategorized/Voicelines.md",
-    "content/Seasons/S00/01_Sponsor_Pages.md",
     "content/Seasons/S04/05_MultiCo_Subsidiaries.md",
-    "content/Seasons/S00/02_Monaco_Analysis.md",
-    "content/Seasons/S00/03_Seoul_Analysis.md",
-    "content/Seasons/S00/07_OB_Intro.md",
-    "content/Seasons/S01/02_Las_Vegas_Analysis.md",
-    "content/Seasons/S01/01_Launch_Trailer.md",
-    "content/Seasons/S01/03_MuCoDOS.md",
-    "content/Seasons/S00/06_CB2_Intro.md",
-    "content/Seasons/S00/05_CB2_Trailer.md",
-    "content/Seasons/S00/04_CB1_Intro.md",
-    "content/Seasons/S00/Media/S00_Sponsor_Pages_02.png",
-    "content/Seasons/S00/Media/S00_Sponsor_Pages_01 (Small).png",
-    "content/Seasons/S00/Media/S00_Sponsor_Pages_02 (Small).png",
-    "content/Seasons/S00/Media/S00_Sponsor_Pages_01.png",
-    "content/Seasons/S04/12_HOLTOW_Site.md",
-    "content/Seasons/S02/09_OSPUZE_Site.md",
-    "content/Seasons/S02/08_Lore_Vignette_02.md",
-    "content/Seasons/S03/04_World_Tour.md",
-    "content/Seasons/S03/03_Kyoto_Analysis.md",
-    "content/Seasons/S03/05_Cosmetics.md",
-    "content/Seasons/S03/06_Lore_Vignette.md",
-    "content/Seasons/S03/02_Intro_Vignette.md",
-    "content/Seasons/S02/04_Cosmetics.md",
-    "content/Seasons/S03/00_Media/S03_Kyoto_Analysis_05.png",
-    "content/Seasons/S03/00_Media/S03_Kyoto_Analysis_03 (Small).png",
-    "content/Seasons/S03/00_Media/S03_Kyoto_Analysis_02 (Small).png",
-    "content/Seasons/S03/00_Media/S03_Kyoto_Analysis_01 (Small).png",
-    "content/Seasons/S03/00_Media/S03_Kyoto_Analysis_04.png",
-    "content/Seasons/S03/00_Media/S03_Kyoto_Analysis_03.png",
-    "Untitled.canvas",
     "Seasons/S01",
     "Seasons",
     "S01",
     "content/Seasons/S02/00_Media/Museum_Tune.wav",
     "content/Seasons/S02/00_Media/Glamora_Tune.wav",
     "content/Seasons/S02/00_Media/Museum_Tune_Tempo_300.wav",
-    "content/Seasons/S07/00_Media/Preshow_Voiceline_11_I'm_a_Real_Boy.wav",
-    "public/static/contentIndex.json",
-    "public/Media",
-    "public/Seasons/S07/00_Media/Preshow_Voiceline_10_I'm_a_Little_Teapot.wav"
+    "content/Seasons/S07/00_Media/Preshow_Voiceline_11_I'm_a_Real_Boy.wav"
   ]
 }

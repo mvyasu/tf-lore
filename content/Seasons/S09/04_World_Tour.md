@@ -1,16 +1,14 @@
 ---
-title: Season 8 World Tour
-description: A post going over all the World Tour stops of Season 8 of THE FINALS.
-date: 2025-09-10T00:00:00
+title: Season 9 World Tour
+description: A post going over all the World Tour stops of Season 9 of THE FINALS.
+date: 2025-12-10T00:00:00
 tags:
   - world-tour
-  - trentila
-  - holtow
   - june
   - scotty
-draft: false
+draft: true
 ---
-![[content/Seasons/S08/00_Media/S08_World_Tour_01_Trentila_Invitational.png]]
+![[content/Seasons/S09/00_Media/S08_World_Tour_01_Trentila_Invitational.png]]
 # TRENTILA INVITATIONAL
 
 **Video Link:** TBD

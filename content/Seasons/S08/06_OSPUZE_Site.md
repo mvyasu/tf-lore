@@ -13,4 +13,4 @@ draft: false
 
 The [OPSUZE website from Season 2](Seasons/S02/09_OSPUZE_Site) was completely wiped and received a new homepage that was themed around Sour Core, a new flavor of OSPUZE.
 
-![[S08_OSPUZE_Site_01.png]]
+![[content/Seasons/S08/00_Media/S08_OSPUZE_Site_01.png]]
