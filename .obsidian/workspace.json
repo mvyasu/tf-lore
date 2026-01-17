@@ -11,10 +11,14 @@
             "id": "366eceb0d6d93ce5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -165,7 +169,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "abbf5a850ee02e51",
+  "active": "366eceb0d6d93ce5",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.base",

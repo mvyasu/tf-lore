@@ -1,17 +1,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
-    <loc>https://quartz.jzhao.xyz/</loc>
-    <lastmod>2025-09-07T03:07:26.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/01_Sponsor_Pages</loc>
+    <lastmod>2022-08-23T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S00/01_Monaco_Analysis</loc>
-    <lastmod>2023-06-14T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S00/03_CB1_Intro</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/02_Monaco_Analysis</loc>
     <lastmod>2023-03-07T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S00/04_CB2_Intro</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/03_Seoul_Analysis</loc>
+    <lastmod>2023-03-07T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/04_CB1_Intro</loc>
+    <lastmod>2023-03-07T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/05_CB2_Trailer</loc>
+    <lastmod>2023-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/06_CB2_Intro</loc>
     <lastmod>2023-06-14T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S00/05_OB_Intro</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S00/07_OB_Intro</loc>
     <lastmod>2023-10-26T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S01/01_Launch_Trailer</loc>
@@ -20,29 +26,17 @@
     <loc>https://quartz.jzhao.xyz/Seasons/S01/03_MuCoDOS</loc>
     <lastmod>2023-12-07T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S01/04_HOLTOW_Site</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S01/05_HOLTOW_Site</loc>
     <lastmod>2023-12-17T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S01/05_Lore_Vignette_01</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S01/06_Lore_Vignette_01</loc>
     <lastmod>2024-02-02T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S01/06_Lore_Vignette_02</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S01/07_Lore_Vignette_02</loc>
     <lastmod>2024-02-21T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S01/07_CNS_Reddit_Posts</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S01/08_CNS_Reddit_Posts</loc>
     <lastmod>2024-03-02T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S03/01_Trailer</loc>
-    <lastmod>2024-06-07T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S03/02_Intro_Vignette</loc>
-    <lastmod>2024-06-13T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S03/04_World_Tour</loc>
-    <lastmod>2024-06-07T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S03/05_Lore_Vignette</loc>
-    <lastmod>2024-09-04T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S02/01_Trailer</loc>
     <lastmod>2024-03-11T07:00:00.000Z</lastmod>
@@ -50,20 +44,38 @@
     <loc>https://quartz.jzhao.xyz/Seasons/S02/02_Intro_Vignette</loc>
     <lastmod>2024-03-14T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S02/04_CNS_Reddit_Posts</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S02/03_SYS$HORIZON_Analysis</loc>
+    <lastmod>2024-03-14T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S02/05_CNS_Reddit_Posts</loc>
     <lastmod>2024-03-23T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S02/05_Lore_Vignette_01</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S02/06_Lore_Vignette_01</loc>
     <lastmod>2024-04-10T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S02/06_Terminal_Attack</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S02/07_Terminal_Attack</loc>
     <lastmod>2024-04-10T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S02/07_Lore_Vignette_02</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S02/08_Lore_Vignette_02</loc>
     <lastmod>2024-05-29T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S02/08_OSPUZE_Site</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S02/09_OSPUZE_Site</loc>
     <lastmod>2024-05-26T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S03/01_Trailer</loc>
+    <lastmod>2024-06-07T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S03/02_Intro_Vignette</loc>
+    <lastmod>2024-06-13T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S03/03_Kyoto_Analysis</loc>
+    <lastmod>2024-06-07T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S03/04_World_Tour</loc>
+    <lastmod>2024-06-07T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S03/06_Lore_Vignette</loc>
+    <lastmod>2024-09-04T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S04/01_Trailer</loc>
     <lastmod>2024-09-20T07:00:00.000Z</lastmod>
@@ -80,22 +92,22 @@
     <loc>https://quartz.jzhao.xyz/Seasons/S04/05_MultiCo_Subsidiaries</loc>
     <lastmod>2024-09-26T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/06_Fortune_Stadium_Analysis</loc>
-    <lastmod>2025-09-06T22:57:47.000Z</lastmod>
-  </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S04/07_World_Tour</loc>
     <lastmod>2024-09-26T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/09_ENGIMO_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/08_Soundtrack</loc>
+    <lastmod>2024-09-26T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/10_ENGIMO_Ad</loc>
     <lastmod>2024-10-15T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/10_HOLTOW_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/11_HOLTOW_Ad</loc>
     <lastmod>2024-10-25T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/11_HOLTOW_Site</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/12_HOLTOW_Site</loc>
     <lastmod>2024-11-06T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S04/12_Lore_Vignette</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S04/13_Lore_Vignette</loc>
     <lastmod>2024-11-27T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S05/02_Patch_Notes</loc>
@@ -107,22 +119,25 @@
     <loc>https://quartz.jzhao.xyz/Seasons/S05/04_Sponorships</loc>
     <lastmod>2024-12-12T07:00:00.000Z</lastmod>
   </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S05/05_Bernal_Analysis</loc>
+    <lastmod>2024-12-12T07:00:00.000Z</lastmod>
+  </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S05/06_World_Tour</loc>
     <lastmod>2024-12-12T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S05/07_ISEUL-T_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S05/08_ISEUL-T_Ad</loc>
     <lastmod>2024-11-06T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S05/08_DISSUN_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S05/09_DISSUN_Ad</loc>
     <lastmod>2025-01-22T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S05/09_Team_Deathmatch</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S05/10_Team_Deathmatch</loc>
     <lastmod>2025-02-14T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S05/10_ALFA_ACTA_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S05/11_ALFA_ACTA_Ad</loc>
     <lastmod>2025-02-26T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S05/11_CNS_Reddit_Posts</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S05/12_CNS_Reddit_Posts</loc>
     <lastmod>2025-03-13T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S06/01_Trailer</loc>
@@ -143,23 +158,59 @@
     <loc>https://quartz.jzhao.xyz/Seasons/S06/06_World_Tour</loc>
     <lastmod>2025-03-20T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S06/07_Close_Quarters_Event</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/08_Close_Quarters_Event</loc>
     <lastmod>2025-05-01T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S06/08_Tiger_Juice_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/09_Tiger_Juice_Ad</loc>
     <lastmod>2025-05-16T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S06/09_Sponsor_Rivalry</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/10_Hydra_Q_Billboards</loc>
+    <lastmod>2025-05-22T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/11_Sponsor_Rivalry</loc>
     <lastmod>2025-06-04T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S06/10_No_Masquerade</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/12_No_Masquerade</loc>
     <lastmod>2025-06-05T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S06/11_CNS_Reddit_Posts</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/13_CNS_Reddit_Posts</loc>
     <lastmod>2025-06-09T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S06/12_Reality_Shield_Ad</loc>
+    <loc>https://quartz.jzhao.xyz/Seasons/S06/14_Reality_Shield_Ad</loc>
     <lastmod>2025-06-11T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/01_Launch_Trailer</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/02_Patch_Notes</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/03_Sponorships</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/04_Nozomi_Citadel_Analysis</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/05_World_Tour</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/06_Soundtrack</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/07_Cosmetics</loc>
+    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/08_Clarity_Unity_Progress</loc>
+    <lastmod>2025-06-15T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/09_Preshow_Dialogue</loc>
+    <lastmod>2025-07-24T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/10_Three_Perfect_Frogs</loc>
+    <lastmod>2025-08-21T07:00:00.000Z</lastmod>
+  </url><url>
+    <loc>https://quartz.jzhao.xyz/Seasons/S07/11_Let_Them_Squawk</loc>
+    <lastmod>2025-09-06T07:00:00.000Z</lastmod>
   </url><url>
     <loc>https://quartz.jzhao.xyz/Seasons/S08/01_Launch_Trailer</loc>
     <lastmod>2025-09-10T07:00:00.000Z</lastmod>
@@ -173,30 +224,15 @@
     <loc>https://quartz.jzhao.xyz/Seasons/S08/04_World_Tour</loc>
     <lastmod>2025-09-10T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/01_Launch_Trailer</loc>
-    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Seasons/S08/05_Cosmetics</loc>
+    <lastmod>2025-09-10T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/02_Patch_Notes</loc>
-    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Seasons/S08/06_OSPUZE_Site</loc>
+    <lastmod>2024-09-25T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/03_Sponorships</loc>
-    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/Seasons/S08/07_Holtow_Ad</loc>
+    <lastmod>2025-10-02T07:00:00.000Z</lastmod>
   </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/04_Clarity_Unity_Progress</loc>
-    <lastmod>2025-06-15T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/05_Nozomi_Citadel_Analysis</loc>
-    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/06_World_Tour</loc>
-    <lastmod>2025-06-12T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/08_Preshow_Dialogue</loc>
-    <lastmod>2025-07-24T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/09_Three_Perfect_Frogs</loc>
-    <lastmod>2025-08-21T07:00:00.000Z</lastmod>
-  </url><url>
-    <loc>https://quartz.jzhao.xyz/Seasons/S07/10_Let_Them_Squawk</loc>
-    <lastmod>2025-09-06T07:00:00.000Z</lastmod>
+    <loc>https://quartz.jzhao.xyz/</loc>
+    <lastmod>2025-09-07T03:07:26.000Z</lastmod>
   </url></urlset>
