@@ -1,9 +1,9 @@
 ---
 title: The Meatspace
-image: content/Media/Index_01_Header.png
+image: og-image.png
 description: A site dedicated to archiving all potential content from THE FINALS related to its lore.
 ---
-![[Index_01_Header.png]]
+![[quartz/static/og-image.png]]
 ## THE FINALS
 
 #### The World
