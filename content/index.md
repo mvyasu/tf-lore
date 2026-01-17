@@ -1,6 +1,6 @@
 ---
 title: The Meatspace
-image: og-image.png
+image: quartz/static/og-image.png
 description: A site dedicated to archiving all potential content from THE FINALS related to its lore.
 ---
 ![[quartz/static/og-image.png]]
